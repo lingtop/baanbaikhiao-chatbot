@@ -8,13 +8,15 @@
 
 bge-m3: โมเดล embedding หลายภาษาของ BAAI รองรับภาษาไทย เวกเตอร์ 1024 มิติ ใช้เวกเตอร์ของ token [CLS] แล้ว normalize
 
-EMBEDDING_PROVIDER=hf (ใช้ตอน deploy บน Render free tier ที่มี RAM 512 MB):
-  ไม่โหลดโมเดลในเครื่อง (ประหยัด ~1.2 GB) แต่ส่งข้อความไปให้ Hugging Face Inference API คำนวณด้วย bge-m3 ตัวเดียวกัน
-  เวกเตอร์จึงเข้ากับคลังที่ index ไว้แล้ว ไม่ต้อง index ใหม่ — ตอนค้นใช้แค่ 1–2 ข้อความต่อคำถาม
+EMBEDDING_PROVIDER=gemini (ใช้ตอน deploy บน Render free tier ที่มี RAM 512 MB — โหลด bge-m3 ไม่ได้):
+  ใช้ gemini-embedding-001 (ตั้งให้ออก 1024 มิติ) ผ่าน API ด้วย key AI Studio ตัวเดิม — ตอนค้นใช้แค่ 1–2 ข้อความต่อคำถาม
+  เวกเตอร์คนละแบบกับ bge-m3 จึงใช้คลังแยก storage/lightrag_gemini (index ครั้งเดียว ~900 ข้อความ เว้นจังหวะไม่เกินโควต้า 100/นาที)
+  (เคยลอง bge-m3 ผ่าน Hugging Face Inference API แต่บัญชีฟรีไม่มีเครดิต → 402)
 """
 
 import os
 import time
+from collections import deque
 from functools import lru_cache
 from pathlib import Path
 
@@ -26,8 +28,10 @@ MODEL_DIR = Path(__file__).resolve().parents[1] / "storage" / "bge-m3"  # ดา
 DIM = 1024
 MAX_TOKENS = 512
 PROVIDER = os.environ.get("EMBEDDING_PROVIDER", "local").lower()
-HF_URL = os.environ.get("HF_EMBEDDING_URL",
-                        "https://router.huggingface.co/hf-inference/models/BAAI/bge-m3/pipeline/feature-extraction")
+GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/openai/embeddings"
+GEMINI_MODEL = "gemini-embedding-001"
+GEMINI_PER_MIN = 90  # free tier นับ 1 ข้อความ = 1 request (100/นาที) — เผื่อไว้ 10
+_sent: deque = deque()  # เวลาที่ส่งแต่ละข้อความ ภายใน 60 วินาทีล่าสุด
 
 
 @lru_cache
@@ -49,28 +53,39 @@ def _load():
     return tok, session
 
 
-def _embed_hf(texts: list[str], batch_size: int = 16) -> np.ndarray:
-    token = os.environ.get("HF_TOKEN", "")
-    if not token:
-        raise RuntimeError("EMBEDDING_PROVIDER=hf แต่ยังไม่ได้ตั้งค่า HF_TOKEN")
+def _wait_quota(n: int):
+    while True:
+        now = time.monotonic()
+        while _sent and now - _sent[0] > 60:
+            _sent.popleft()
+        if len(_sent) + n <= GEMINI_PER_MIN:
+            _sent.extend([now] * n)
+            return
+        time.sleep(60 - (now - _sent[0]) + 0.5)
+
+
+def _embed_gemini(texts: list[str], batch_size: int = 16) -> np.ndarray:
+    key = os.environ.get("EMBEDDING_API_KEY") or os.environ.get("LLM_BINDING_API_KEY", "")
     out = []
     for i in range(0, len(texts), batch_size):
-        for attempt in range(3):
-            r = httpx.post(HF_URL, json={"inputs": texts[i:i + batch_size]}, timeout=60,
-                           headers={"Authorization": f"Bearer {token}"})
+        batch = texts[i:i + batch_size]
+        for attempt in range(4):
+            _wait_quota(len(batch))
+            r = httpx.post(GEMINI_URL, timeout=60, headers={"Authorization": f"Bearer {key}"},
+                           json={"model": GEMINI_MODEL, "input": batch, "dimensions": DIM})
             if r.status_code == 200:
                 break
-            if r.status_code not in (429, 500, 502, 503, 504) or attempt == 2:
-                raise RuntimeError(f"HF embedding {r.status_code}: {r.text[:200]}")
-            time.sleep(2 * (attempt + 1))  # โมเดลกำลังโหลด / ไม่ว่าง → รอแล้วลองใหม่
-        v = np.asarray(r.json(), dtype=np.float32)
-        out.append(v / np.linalg.norm(v, axis=1, keepdims=True))
+            if r.status_code not in (429, 500, 503, 504) or attempt == 3:
+                raise RuntimeError(f"Gemini embedding {r.status_code}: {r.text[:200]}")
+            time.sleep(15 * (attempt + 1))
+        v = np.asarray([d["embedding"] for d in r.json()["data"]], dtype=np.float32)
+        out.append(v / np.linalg.norm(v, axis=1, keepdims=True))  # ตัดเหลือ 1024 มิติแล้วต้อง normalize ใหม่
     return np.vstack(out)
 
 
 def embed(texts: list[str], batch_size: int = 16) -> np.ndarray:
-    if PROVIDER == "hf":
-        return _embed_hf(texts, batch_size)
+    if PROVIDER == "gemini":
+        return _embed_gemini(texts, batch_size)
     tok, session = _load()
     input_names = {i.name for i in session.get_inputs()}
     out = []
@@ -89,7 +104,6 @@ def embed(texts: list[str], batch_size: int = 16) -> np.ndarray:
 
 
 if __name__ == "__main__":
-    import time
     t = time.perf_counter()
     v = embed(["ลิ้นมังกร ทนแสงน้อย ดูแลง่าย", "ต้นไม้ที่ดูแลง่ายสำหรับห้องที่แดดส่องไม่ถึง", "ค่าส่งต่างจังหวัด 120 บาท"])
     print("shape", v.shape, f"{time.perf_counter() - t:.1f}s (รวมโหลดโมเดล)")

@@ -1,0 +1,3868 @@
+{
+  "Baan Bai Khiao Plant Shop<SEP>สถานีรถไฟฟ้าสวนสวย": {
+    "chunk_ids": [
+      "kb-01_shop_info-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792161933,
+    "update_time": 1792161933,
+    "_id": "Baan Bai Khiao Plant Shop<SEP>สถานีรถไฟฟ้าสวนสวย"
+  },
+  "Baan Bai Khiao Plant Shop<SEP>LINE OA": {
+    "chunk_ids": [
+      "kb-01_shop_info-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792161933,
+    "update_time": 1792161933,
+    "_id": "Baan Bai Khiao Plant Shop<SEP>LINE OA"
+  },
+  "Baan Bai Khiao Plant Shop<SEP>แชทบอท": {
+    "chunk_ids": [
+      "kb-01_shop_info-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792161933,
+    "update_time": 1792161933,
+    "_id": "Baan Bai Khiao Plant Shop<SEP>แชทบอท"
+  },
+  "Baan Bai Khiao Plant Shop<SEP>แอดมิน": {
+    "chunk_ids": [
+      "kb-01_shop_info-chunk-000",
+      "kb-01_shop_info-chunk-001"
+    ],
+    "count": 2,
+    "create_time": 1792161933,
+    "update_time": 1792161933,
+    "_id": "Baan Bai Khiao Plant Shop<SEP>แอดมิน"
+  },
+  "Baan Bai Khiao Plant Shop<SEP>LINE OA @baanbaikhiao": {
+    "chunk_ids": [
+      "kb-01_shop_info-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792161933,
+    "update_time": 1792161933,
+    "_id": "Baan Bai Khiao Plant Shop<SEP>LINE OA @baanbaikhiao"
+  },
+  "มอนสเตอร่า เดลิซิโอซ่า<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "มอนสเตอร่า เดลิซิโอซ่า<SEP>ร้านบ้านใบเขียว"
+  },
+  "มอนสเตอร่า เดลิซิโอซ่า<SEP>ไม้ใบในร่ม": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "มอนสเตอร่า เดลิซิโอซ่า<SEP>ไม้ใบในร่ม"
+  },
+  "data/plants.csv<SEP>scripts/build_plants_kb.py": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "data/plants.csv<SEP>scripts/build_plants_kb.py"
+  },
+  "Philodendron Birkin<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Philodendron Birkin<SEP>บ้านใบเขียว"
+  },
+  "Philodendron Xanadu<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Philodendron Xanadu<SEP>บ้านใบเขียว"
+  },
+  "Philodendron Selloum<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Philodendron Selloum<SEP>บ้านใบเขียว"
+  },
+  "Philodendron Rojo Congo<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Philodendron Rojo Congo<SEP>บ้านใบเขียว"
+  },
+  "Aglaonema Siam Aurora<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Aglaonema Siam Aurora<SEP>บ้านใบเขียว"
+  },
+  "Aglaonema Silver Bay<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Aglaonema Silver Bay<SEP>บ้านใบเขียว"
+  },
+  "ต้นไม้<SEP>ออฟฟิศ": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ต้นไม้<SEP>ออฟฟิศ"
+  },
+  "ต้นไม้<SEP>ห้องแอร์": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ต้นไม้<SEP>ห้องแอร์"
+  },
+  "บ้านใบเขียว<SEP>เขียวหมื่นปี": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "บ้านใบเขียว<SEP>เขียวหมื่นปี"
+  },
+  "บ้านใบเขียว<SEP>สาวน้อยประแป้ง": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "บ้านใบเขียว<SEP>สาวน้อยประแป้ง"
+  },
+  "บ้านใบเขียว<SEP>เงินไหลมา": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "บ้านใบเขียว<SEP>เงินไหลมา"
+  },
+  "บ้านใบเขียว<SEP>เงินไหลมา ชมพู": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "บ้านใบเขียว<SEP>เงินไหลมา ชมพู"
+  },
+  "กวักมรกต<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "กวักมรกต<SEP>บ้านใบเขียว"
+  },
+  "กวักมรกตดำ<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "กวักมรกตดำ<SEP>บ้านใบเขียว"
+  },
+  "Zamiifolia 'Raven'<SEP>ไม้มงคล": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Zamiifolia 'Raven'<SEP>ไม้มงคล"
+  },
+  "Zamiifolia 'Raven'<SEP>ของขวัญ": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Zamiifolia 'Raven'<SEP>ของขวัญ"
+  },
+  "บ้านใบเขียว<SEP>ลิ้นมังกร": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "บ้านใบเขียว<SEP>ลิ้นมังกร"
+  },
+  "บ้านใบเขียว<SEP>ลิ้นมังกรขอบทอง": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "บ้านใบเขียว<SEP>ลิ้นมังกรขอบทอง"
+  },
+  "บ้านใบเขียว<SEP>ลิ้นมังกรทรงกระบอก": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "บ้านใบเขียว<SEP>ลิ้นมังกรทรงกระบอก"
+  },
+  "บ้านใบเขียว<SEP>ลิ้นมังกรแคระ": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "บ้านใบเขียว<SEP>ลิ้นมังกรแคระ"
+  },
+  "บ้านใบเขียว<SEP>ยางอินเดีย": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "บ้านใบเขียว<SEP>ยางอินเดีย"
+  },
+  "บ้านใบเขียว<SEP>ยางอินเดียด่าง": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "บ้านใบเขียว<SEP>ยางอินเดียด่าง"
+  },
+  "คล้านกยูง<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-009",
+      "kb-09_plant_recommendations-chunk-007"
+    ],
+    "count": 2,
+    "update_time": 1792162419,
+    "_id": "คล้านกยูง<SEP>ร้านบ้านใบเขียว"
+  },
+  "คล้าแรทเทิลสเนค<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "คล้าแรทเทิลสเนค<SEP>ร้านบ้านใบเขียว"
+  },
+  "คล้าออร์บิโฟเลีย<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-010",
+      "kb-09_plant_recommendations-chunk-007"
+    ],
+    "count": 2,
+    "update_time": 1792162419,
+    "_id": "คล้าออร์บิโฟเลีย<SEP>ร้านบ้านใบเขียว"
+  },
+  "คล้าสวดมนต์<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "คล้าสวดมนต์<SEP>ร้านบ้านใบเขียว"
+  },
+  "ร้านบ้านใบเขียว<SEP>เปปเปอร์โรเมีย ใบกลม": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ร้านบ้านใบเขียว<SEP>เปปเปอร์โรเมีย ใบกลม"
+  },
+  "Goeppertia orbifolia<SEP>คล้าออร์บิโฟเลีย": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Goeppertia orbifolia<SEP>คล้าออร์บิโฟเลีย"
+  },
+  "Maranta leuconeura<SEP>คล้าสวดมนต์": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Maranta leuconeura<SEP>คล้าสวดมนต์"
+  },
+  "Peperomia obtusifolia<SEP>เปปเปอร์โรเมีย ใบกลม": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Peperomia obtusifolia<SEP>เปปเปอร์โรเมีย ใบกลม"
+  },
+  "Peperomia Argyreia<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Peperomia Argyreia<SEP>ร้านบ้านใบเขียว"
+  },
+  "Pilea Peperomioides<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Pilea Peperomioides<SEP>ร้านบ้านใบเขียว"
+  },
+  "Fittonia Albivenis<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Fittonia Albivenis<SEP>ร้านบ้านใบเขียว"
+  },
+  "Peperomia Argyreia<SEP>ไม้ใบในร่ม": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Peperomia Argyreia<SEP>ไม้ใบในร่ม"
+  },
+  "Pilea Peperomioides<SEP>ไม้ใบในร่ม": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Pilea Peperomioides<SEP>ไม้ใบในร่ม"
+  },
+  "Fittonia Albivenis<SEP>ไม้ใบในร่ม": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Fittonia Albivenis<SEP>ไม้ใบในร่ม"
+  },
+  "Alocasia Polly<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Alocasia Polly<SEP>ร้านบ้านใบเขียว"
+  },
+  "Alocasia Zebrina<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-012",
+      "kb-09_plant_recommendations-chunk-018"
+    ],
+    "count": 2,
+    "update_time": 1792162419,
+    "_id": "Alocasia Zebrina<SEP>ร้านบ้านใบเขียว"
+  },
+  "Giant Taro<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-012",
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 2,
+    "update_time": 1792162419,
+    "_id": "Giant Taro<SEP>ร้านบ้านใบเขียว"
+  },
+  "Asia Macrorrhizos<SEP>ระเบียง": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Asia Macrorrhizos<SEP>ระเบียง"
+  },
+  "Asia Macrorrhizos<SEP>ห้อง": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Asia Macrorrhizos<SEP>ห้อง"
+  },
+  "Caladium<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Caladium<SEP>บ้านใบเขียว"
+  },
+  "Begonia maculata<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Begonia maculata<SEP>บ้านใบเขียว"
+  },
+  "Codiaeum variegatum<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Codiaeum variegatum<SEP>บ้านใบเขียว"
+  },
+  "บ้านใบเขียว<SEP>ไผ่กวนอิม": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "บ้านใบเขียว<SEP>ไผ่กวนอิม"
+  },
+  "บ้านใบเขียว<SEP>พลูด่าง": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "บ้านใบเขียว<SEP>พลูด่าง"
+  },
+  "บ้านใบเขียว<SEP>พลูหินอ่อน": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "บ้านใบเขียว<SEP>พลูหินอ่อน"
+  },
+  "บ้านใบเขียว<SEP>พลูเอ็นจอย": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "บ้านใบเขียว<SEP>พลูเอ็นจอย"
+  },
+  "บ้านใบเขียว<SEP>พลูแนวซิลเวอร์": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "บ้านใบเขียว<SEP>พลูแนวซิลเวอร์"
+  },
+  "Monstera Adansonii<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-017"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Monstera Adansonii<SEP>บ้านใบเขียว"
+  },
+  "Rhaphidophora Tetrasperma<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-017"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Rhaphidophora Tetrasperma<SEP>บ้านใบเขียว"
+  },
+  "Philodendron Hederaceum<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-017"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Philodendron Hederaceum<SEP>บ้านใบเขียว"
+  },
+  "Philodendron Micans<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-018"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Philodendron Micans<SEP>บ้านใบเขียว"
+  },
+  "English Ivy<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-018"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "English Ivy<SEP>บ้านใบเขียว"
+  },
+  "String Of Pearls<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-018"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "String Of Pearls<SEP>บ้านใบเขียว"
+  },
+  "ระเบียง<SEP>ไม้อวบน้ำ": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ระเบียง<SEP>ไม้อวบน้ำ"
+  },
+  "บ้านใบเขียว<SEP>สร้อยหัวใจ": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-020"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "บ้านใบเขียว<SEP>สร้อยหัวใจ"
+  },
+  "บ้านใบเขียว<SEP>สร้อยกล้วย": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-020"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "บ้านใบเขียว<SEP>สร้อยกล้วย"
+  },
+  "ก้ามปูหลุด<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-020"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ก้ามปูหลุด<SEP>บ้านใบเขียว"
+  },
+  "บ้านใบเขียว<SEP>โฮย่าหัวใจ": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-021"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "บ้านใบเขียว<SEP>โฮย่าหัวใจ"
+  },
+  "บ้านใบเขียว<SEP>โฮย่า คาร์โนซ่า": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-021"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "บ้านใบเขียว<SEP>โฮย่า คาร์โนซ่า"
+  },
+  "Peperomia Hope<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-022"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Peperomia Hope<SEP>บ้านใบเขียว"
+  },
+  "Spider Plant<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-022"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Spider Plant<SEP>บ้านใบเขียว"
+  },
+  "ปาล์มไผ่<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-023",
+      "kb-09_plant_recommendations-chunk-015"
+    ],
+    "count": 2,
+    "update_time": 1792162419,
+    "_id": "ปาล์มไผ่<SEP>ร้านบ้านใบเขียว"
+  },
+  "ร้านบ้านใบเขียว<SEP>หมากเหลือง": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-023",
+      "kb-09_plant_recommendations-chunk-015"
+    ],
+    "count": 2,
+    "update_time": 1792162419,
+    "_id": "ร้านบ้านใบเขียว<SEP>หมากเหลือง"
+  },
+  "ปาล์มเอลิแกนส์<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-023"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ปาล์มเอลิแกนส์<SEP>ร้านบ้านใบเขียว"
+  },
+  "ปาล์มและไม้ต้นในร่ม<SEP>ปาล์มไผ่": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-023"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ปาล์มและไม้ต้นในร่ม<SEP>ปาล์มไผ่"
+  },
+  "ปาล์มและไม้ต้นในร่ม<SEP>หมากเหลือง": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-023"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ปาล์มและไม้ต้นในร่ม<SEP>หมากเหลือง"
+  },
+  "ปาล์มเอลิแกนส์<SEP>ปาล์มและไม้ต้นในร่ม": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-023"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ปาล์มเอลิแกนส์<SEP>ปาล์มและไม้ต้นในร่ม"
+  },
+  "ปาล์มขนาดเล็ก<SEP>โต๊ะทำงาน": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-024"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ปาล์มขนาดเล็ก<SEP>โต๊ะทำงาน"
+  },
+  "ปาล์มขนาดเล็ก<SEP>ออฟฟิศ": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-024"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ปาล์มขนาดเล็ก<SEP>ออฟฟิศ"
+  },
+  "จั๋ง<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-025"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "จั๋ง<SEP>บ้านใบเขียว"
+  },
+  "บ้านใบเขียว<SEP>ปาล์มเคนเทีย": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-025"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "บ้านใบเขียว<SEP>ปาล์มเคนเทีย"
+  },
+  "ต้นหางม้า<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-025"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ต้นหางม้า<SEP>บ้านใบเขียว"
+  },
+  "บ้านใบเขียว<SEP>ปรงญี่ปุ่น": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-026",
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 2,
+    "update_time": 1792162419,
+    "_id": "บ้านใบเขียว<SEP>ปรงญี่ปุ่น"
+  },
+  "บ้านใบเขียว<SEP>ไทรใบสัก": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-026"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "บ้านใบเขียว<SEP>ไทรใบสัก"
+  },
+  "บ้านใบเขียว<SEP>ไทรใบสักแคระ": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-027"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "บ้านใบเขียว<SEP>ไทรใบสักแคระ"
+  },
+  "บ้านใบเขียว<SEP>ไทรเบญจมิน": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-027"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "บ้านใบเขียว<SEP>ไทรเบญจมิน"
+  },
+  "บ้านใบเขียว<SEP>วาสนา": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-027"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "บ้านใบเขียว<SEP>วาสนา"
+  },
+  "Dracaena Marginata<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-028"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Dracaena Marginata<SEP>บ้านใบเขียว"
+  },
+  "Schefflera Arboricola<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-028"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Schefflera Arboricola<SEP>บ้านใบเขียว"
+  },
+  "Strelitzia Nicolai<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-028"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Strelitzia Nicolai<SEP>บ้านใบเขียว"
+  },
+  "บ้านใบเขียว<SEP>มะกอกฝรั่ง": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-029",
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 2,
+    "update_time": 1792162419,
+    "_id": "บ้านใบเขียว<SEP>มะกอกฝรั่ง"
+  },
+  "กุหลาบหิน<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-029",
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 2,
+    "update_time": 1792162419,
+    "_id": "กุหลาบหิน<SEP>บ้านใบเขียว"
+  },
+  "Zebra Haworthia<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-030"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Zebra Haworthia<SEP>บ้านใบเขียว"
+  },
+  "Window Haworthia<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-030"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Window Haworthia<SEP>บ้านใบเขียว"
+  },
+  "Jade Plant<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-030"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Jade Plant<SEP>บ้านใบเขียว"
+  },
+  "Zebra Haworthia<SEP>โต๊ะทำงาน": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-030"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Zebra Haworthia<SEP>โต๊ะทำงาน"
+  },
+  "Window Haworthia<SEP>โต๊ะทำงาน": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-030"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Window Haworthia<SEP>โต๊ะทำงาน"
+  },
+  "ร้านบ้านใบเขียว<SEP>อากาเว่ (Century Plant)": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ร้านบ้านใบเขียว<SEP>อากาเว่ (Century Plant)"
+  },
+  "ร้านบ้านใบเขียว<SEP>เซดั้ม หางลา (Burro's Tail)": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ร้านบ้านใบเขียว<SEP>เซดั้ม หางลา (Burro's Tail)"
+  },
+  "ร้านบ้านใบเขียว<SEP>ว่านหางจระเข้ (Aloe Vera)": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ร้านบ้านใบเขียว<SEP>ว่านหางจระเข้ (Aloe Vera)"
+  },
+  "Agave americana<SEP>อากาเว่ (Century Plant)": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Agave americana<SEP>อากาเว่ (Century Plant)"
+  },
+  "Sedum morganianum<SEP>เซดั้ม หางลา (Burro's Tail)": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Sedum morganianum<SEP>เซดั้ม หางลา (Burro's Tail)"
+  },
+  "Aloe vera<SEP>ว่านหางจระเข้ (Aloe Vera)": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Aloe vera<SEP>ว่านหางจระเข้ (Aloe Vera)"
+  },
+  "อากาเว่ (Century Plant)<SEP>ไม้อวบน้ำ": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "อากาเว่ (Century Plant)<SEP>ไม้อวบน้ำ"
+  },
+  "เซดั้ม หางลา (Burro's Tail)<SEP>ไม้อวบน้ำ": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "เซดั้ม หางลา (Burro's Tail)<SEP>ไม้อวบน้ำ"
+  },
+  "ว่านหางจระเข้ (Aloe Vera)<SEP>ไม้อวบน้ำ": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ว่านหางจระเข้ (Aloe Vera)<SEP>ไม้อวบน้ำ"
+  },
+  "ระเบียง<SEP>อากาเว่ (Century Plant)": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ระเบียง<SEP>อากาเว่ (Century Plant)"
+  },
+  "ระเบียง<SEP>เซดั้ม หางลา (Burro's Tail)": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ระเบียง<SEP>เซดั้ม หางลา (Burro's Tail)"
+  },
+  "ระเบียง<SEP>ว่านหางจระเข้ (Aloe Vera)": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ระเบียง<SEP>ว่านหางจระเข้ (Aloe Vera)"
+  },
+  "Lithops spp.<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-032"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Lithops spp.<SEP>บ้านใบเขียว"
+  },
+  "Graptopetalum paraguayense<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-032"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Graptopetalum paraguayense<SEP>บ้านใบเขียว"
+  },
+  "Euphorbia tirucalli<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-032"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Euphorbia tirucalli<SEP>บ้านใบเขียว"
+  },
+  "บ้านใบเขียว<SEP>โป๊ยเซียน": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-033",
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 2,
+    "update_time": 1792162419,
+    "_id": "บ้านใบเขียว<SEP>โป๊ยเซียน"
+  },
+  "ชวนชม<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-033",
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 2,
+    "update_time": 1792162419,
+    "_id": "ชวนชม<SEP>บ้านใบเขียว"
+  },
+  "โป๊ยเซียน<SEP>ไม้อวบน้ำ": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-033"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "โป๊ยเซียน<SEP>ไม้อวบน้ำ"
+  },
+  "ชวนชม<SEP>ไม้อวบน้ำ": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-033"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ชวนชม<SEP>ไม้อวบน้ำ"
+  },
+  "ร้านบ้านใบเขียว<SEP>แคคตัส คละสายพันธุ์ (Assorted Cactus)": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-034"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ร้านบ้านใบเขียว<SEP>แคคตัส คละสายพันธุ์ (Assorted Cactus)"
+  },
+  "ยิมโนคาไลเซียม (Gymnocalycium)<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-034"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ยิมโนคาไลเซียม (Gymnocalycium)<SEP>ร้านบ้านใบเขียว"
+  },
+  "Cactaceae<SEP>แคคตัส คละสายพันธุ์ (Assorted Cactus)": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-034"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Cactaceae<SEP>แคคตัส คละสายพันธุ์ (Assorted Cactus)"
+  },
+  "Gymnocalycium mihanovichii<SEP>ยิมโนคาไลเซียม (Gymnocalycium)": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-034"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Gymnocalycium mihanovichii<SEP>ยิมโนคาไลเซียม (Gymnocalycium)"
+  },
+  "แคคตัส<SEP>แคคตัส คละสายพันธุ์ (Assorted Cactus)": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-034"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "แคคตัส<SEP>แคคตัส คละสายพันธุ์ (Assorted Cactus)"
+  },
+  "ยิมโนคาไลเซียม (Gymnocalycium)<SEP>แคคตัส": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-034"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ยิมโนคาไลเซียม (Gymnocalycium)<SEP>แคคตัส"
+  },
+  "Gymnocalycium Mihanovichii<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-035"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Gymnocalycium Mihanovichii<SEP>บ้านใบเขียว"
+  },
+  "Mammillaria Spp.<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-035"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Mammillaria Spp.<SEP>บ้านใบเขียว"
+  },
+  "Astrophytum Asterias<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-035"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Astrophytum Asterias<SEP>บ้านใบเขียว"
+  },
+  "Gymnocalycium Mihanovichii<SEP>แคคตัส": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-035"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Gymnocalycium Mihanovichii<SEP>แคคตัส"
+  },
+  "Mammillaria Spp.<SEP>แคคตัส": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-035"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Mammillaria Spp.<SEP>แคคตัส"
+  },
+  "Astrophytum Asterias<SEP>แคคตัส": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-035"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Astrophytum Asterias<SEP>แคคตัส"
+  },
+  "ถังทอง<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-036",
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 2,
+    "update_time": 1792162419,
+    "_id": "ถังทอง<SEP>บ้านใบเขียว"
+  },
+  "บ้านใบเขียว<SEP>โอพันเทีย หูกระต่าย": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-036",
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 2,
+    "update_time": 1792162419,
+    "_id": "บ้านใบเขียว<SEP>โอพันเทีย หูกระต่าย"
+  },
+  "ซีรีอุส<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-036",
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 2,
+    "update_time": 1792162419,
+    "_id": "ซีรีอุส<SEP>บ้านใบเขียว"
+  },
+  "ถังทอง<SEP>แคคตัส": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-036"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ถังทอง<SEP>แคคตัส"
+  },
+  "แคคตัส<SEP>โอพันเทีย หูกระต่าย": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-036"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "แคคตัส<SEP>โอพันเทีย หูกระต่าย"
+  },
+  "ซีรีอุส<SEP>แคคตัส": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-036"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ซีรีอุส<SEP>แคคตัส"
+  },
+  "Echinopsis<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-037"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Echinopsis<SEP>บ้านใบเขียว"
+  },
+  "Christmas Cactus<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-037"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Christmas Cactus<SEP>บ้านใบเขียว"
+  },
+  "Peace Lily<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-037"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Peace Lily<SEP>บ้านใบเขียว"
+  },
+  "Echinopsis<SEP>แคคตัส": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-037"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Echinopsis<SEP>แคคตัส"
+  },
+  "Christmas Cactus<SEP>แคคตัส": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-037"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Christmas Cactus<SEP>แคคตัส"
+  },
+  "Peace Lily<SEP>ไม้ดอก": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-037"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Peace Lily<SEP>ไม้ดอก"
+  },
+  "Anthurium Red<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-038"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Anthurium Red<SEP>บ้านใบเขียว"
+  },
+  "Anthurium Pink<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-038"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Anthurium Pink<SEP>บ้านใบเขียว"
+  },
+  "Kalanchoe<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-038"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Kalanchoe<SEP>บ้านใบเขียว"
+  },
+  "African Violet<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-039",
+      "kb-09_plant_recommendations-chunk-009",
+      "kb-09_plant_recommendations-chunk-011"
+    ],
+    "count": 3,
+    "update_time": 1792162419,
+    "_id": "African Violet<SEP>ร้านบ้านใบเขียว"
+  },
+  "Arabian Jasmine<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-039"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Arabian Jasmine<SEP>ร้านบ้านใบเขียว"
+  },
+  "Gardenia<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-039"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Gardenia<SEP>ร้านบ้านใบเขียว"
+  },
+  "ร้านบ้านใบเขียว<SEP>เฟื่องฟ้า": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-040"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ร้านบ้านใบเขียว<SEP>เฟื่องฟ้า"
+  },
+  "กุหลาบมินิ<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-040"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "กุหลาบมินิ<SEP>ร้านบ้านใบเขียว"
+  },
+  "พิทูเนีย<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-040",
+      "kb-09_plant_recommendations-chunk-016"
+    ],
+    "count": 2,
+    "update_time": 1792162419,
+    "_id": "พิทูเนีย<SEP>ร้านบ้านใบเขียว"
+  },
+  "บานชื่น<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-041"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "บานชื่น<SEP>บ้านใบเขียว"
+  },
+  "บ้านใบเขียว<SEP>แพรเซี่ยงไฮ้": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-041"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "บ้านใบเขียว<SEP>แพรเซี่ยงไฮ้"
+  },
+  "บ้านใบเขียว<SEP>เบโกเนียดอก": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-041"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "บ้านใบเขียว<SEP>เบโกเนียดอก"
+  },
+  "ดอกคริสต์มาส<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-042"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ดอกคริสต์มาส<SEP>ร้านบ้านใบเขียว"
+  },
+  "กล้วยไม้ฟาแลนน็อปซิส<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-042"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "กล้วยไม้ฟาแลนน็อปซิส<SEP>ร้านบ้านใบเขียว"
+  },
+  "Dendrobium Orchid<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-043"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Dendrobium Orchid<SEP>บ้านใบเขียว"
+  },
+  "Vanda Orchid<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-043"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Vanda Orchid<SEP>บ้านใบเขียว"
+  },
+  "Dendrobium Orchid<SEP>กล้วยไม้": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-043"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Dendrobium Orchid<SEP>กล้วยไม้"
+  },
+  "Vanda Orchid<SEP>กล้วยไม้": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-043"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Vanda Orchid<SEP>กล้วยไม้"
+  },
+  "กล้วยไม้ออนซิเดียม<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-044"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "กล้วยไม้ออนซิเดียม<SEP>บ้านใบเขียว"
+  },
+  "กล้วยไม้แคทลียา<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-044"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "กล้วยไม้แคทลียา<SEP>บ้านใบเขียว"
+  },
+  "Guzmania Bromeliad<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-045"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Guzmania Bromeliad<SEP>บ้านใบเขียว"
+  },
+  "Urn Plant<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-045"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Urn Plant<SEP>บ้านใบเขียว"
+  },
+  "Guzmania Bromeliad<SEP>สับปะรดสีและทิลแลนเซีย": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-045"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Guzmania Bromeliad<SEP>สับปะรดสีและทิลแลนเซีย"
+  },
+  "Urn Plant<SEP>สับปะรดสีและทิลแลนเซีย": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-045"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Urn Plant<SEP>สับปะรดสีและทิลแลนเซีย"
+  },
+  "Neoregelia<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-046"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Neoregelia<SEP>ร้านบ้านใบเขียว"
+  },
+  "Cryptanthus Bivittatus<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-046"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Cryptanthus Bivittatus<SEP>ร้านบ้านใบเขียว"
+  },
+  "Neoregelia<SEP>สับปะรดสีและทิลแลนเซีย": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-046"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Neoregelia<SEP>สับปะรดสีและทิลแลนเซีย"
+  },
+  "Cryptanthus Bivittatus<SEP>สับปะรดสีและทิลแลนเซีย": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-046"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Cryptanthus Bivittatus<SEP>สับปะรดสีและทิลแลนเซีย"
+  },
+  "Tillandsia spp.<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-047"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Tillandsia spp.<SEP>บ้านใบเขียว"
+  },
+  "Tillandsia usneoides<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-047"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Tillandsia usneoides<SEP>บ้านใบเขียว"
+  },
+  "Tillandsia spp.<SEP>สับปะรดสีและทิลแลนเซีย": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-047"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Tillandsia spp.<SEP>สับปะรดสีและทิลแลนเซีย"
+  },
+  "Tillandsia usneoides<SEP>สับปะรดสีและทิลแลนเซีย": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-047"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Tillandsia usneoides<SEP>สับปะรดสีและทิลแลนเซีย"
+  },
+  "Boston Fern<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-048"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Boston Fern<SEP>ร้านบ้านใบเขียว"
+  },
+  "Bird's Nest Fern<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-048"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Bird's Nest Fern<SEP>ร้านบ้านใบเขียว"
+  },
+  "Maidenhair Fern<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-048"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Maidenhair Fern<SEP>ร้านบ้านใบเขียว"
+  },
+  "Staghorn Fern<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-049"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Staghorn Fern<SEP>บ้านใบเขียว"
+  },
+  "Rabbit's Foot Fern<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-049"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Rabbit's Foot Fern<SEP>บ้านใบเขียว"
+  },
+  "Asparagus Fern<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-049"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "Asparagus Fern<SEP>บ้านใบเขียว"
+  },
+  "กาบหอยแครง<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-050"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "กาบหอยแครง<SEP>ร้านบ้านใบเขียว"
+  },
+  "ร้านบ้านใบเขียว<SEP>หม้อข้าวหม้อแกงลิง": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-050"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ร้านบ้านใบเขียว<SEP>หม้อข้าวหม้อแกงลิง"
+  },
+  "บ้านใบเขียว<SEP>หยาดน้ำค้าง": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-051"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "บ้านใบเขียว<SEP>หยาดน้ำค้าง"
+  },
+  "ซาราซีเนีย<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-051"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ซาราซีเนีย<SEP>บ้านใบเขียว"
+  },
+  "หยาดน้ำค้าง<SEP>ไม้กินแมลง": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-051"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "หยาดน้ำค้าง<SEP>ไม้กินแมลง"
+  },
+  "ซาราซีเนีย<SEP>ไม้กินแมลง": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-051"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ซาราซีเนีย<SEP>ไม้กินแมลง"
+  },
+  "กะเพรา<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-052"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "กะเพรา<SEP>ร้านบ้านใบเขียว"
+  },
+  "ร้านบ้านใบเขียว<SEP>โหระพา": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-052"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ร้านบ้านใบเขียว<SEP>โหระพา"
+  },
+  "ร้านบ้านใบเขียว<SEP>สะระแหน่": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-052"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ร้านบ้านใบเขียว<SEP>สะระแหน่"
+  },
+  "ตะไคร้<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-053"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ตะไคร้<SEP>บ้านใบเขียว"
+  },
+  "บ้านใบเขียว<SEP>โรสแมรี่": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-053"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "บ้านใบเขียว<SEP>โรสแมรี่"
+  },
+  "บ้านใบเขียว<SEP>ลาเวนเดอร์": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-053"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "บ้านใบเขียว<SEP>ลาเวนเดอร์"
+  },
+  "ตะไคร้<SEP>ผักสวนครัวและสมุนไพร": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-053"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ตะไคร้<SEP>ผักสวนครัวและสมุนไพร"
+  },
+  "ผักสวนครัวและสมุนไพร<SEP>โรสแมรี่": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-053"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ผักสวนครัวและสมุนไพร<SEP>โรสแมรี่"
+  },
+  "ผักสวนครัวและสมุนไพร<SEP>ลาเวนเดอร์": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-053"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ผักสวนครัวและสมุนไพร<SEP>ลาเวนเดอร์"
+  },
+  "พริกขี้หนู<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-054"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "พริกขี้หนู<SEP>ร้านบ้านใบเขียว"
+  },
+  "ร้านบ้านใบเขียว<SEP>เตยหอม": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-054",
+      "kb-09_plant_recommendations-chunk-015"
+    ],
+    "count": 2,
+    "update_time": 1792162419,
+    "_id": "ร้านบ้านใบเขียว<SEP>เตยหอม"
+  },
+  "ชุดผักสวนครัว 3 ชนิด<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-054"
+    ],
+    "count": 1,
+    "create_time": 1792161937,
+    "update_time": 1792161937,
+    "_id": "ชุดผักสวนครัว 3 ชนิด<SEP>ร้านบ้านใบเขียว"
+  },
+  "กระถางดินเผา<SEP>กระถางเซรามิกสีขาวด้าน": {
+    "chunk_ids": [
+      "kb-03_pots_supplies-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792162243,
+    "update_time": 1792162243,
+    "_id": "กระถางดินเผา<SEP>กระถางเซรามิกสีขาวด้าน"
+  },
+  "กระถางดินเผา<SEP>กระถางเซรามิกเคลือบสีเขียวเสจ": {
+    "chunk_ids": [
+      "kb-03_pots_supplies-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792162243,
+    "update_time": 1792162243,
+    "_id": "กระถางดินเผา<SEP>กระถางเซรามิกเคลือบสีเขียวเสจ"
+  },
+  "กระถางเซรามิกสีขาวด้าน<SEP>กระถางเซรามิกเคลือบสีเขียวเสจ": {
+    "chunk_ids": [
+      "kb-03_pots_supplies-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792162243,
+    "update_time": 1792162243,
+    "_id": "กระถางเซรามิกสีขาวด้าน<SEP>กระถางเซรามิกเคลือบสีเขียวเสจ"
+  },
+  "ปุ๋ยละลายช้า<SEP>ปุ๋ยและยาดูแลต้นไม้": {
+    "chunk_ids": [
+      "kb-03_pots_supplies-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162243,
+    "update_time": 1792162243,
+    "_id": "ปุ๋ยละลายช้า<SEP>ปุ๋ยและยาดูแลต้นไม้"
+  },
+  "ปุ๋ยน้ำสำหรับไม้ใบ<SEP>ปุ๋ยและยาดูแลต้นไม้": {
+    "chunk_ids": [
+      "kb-03_pots_supplies-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162243,
+    "update_time": 1792162243,
+    "_id": "ปุ๋ยน้ำสำหรับไม้ใบ<SEP>ปุ๋ยและยาดูแลต้นไม้"
+  },
+  "น้ำมันสะเดา<SEP>ปุ๋ยและยาดูแลต้นไม้": {
+    "chunk_ids": [
+      "kb-03_pots_supplies-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162243,
+    "update_time": 1792162243,
+    "_id": "น้ำมันสะเดา<SEP>ปุ๋ยและยาดูแลต้นไม้"
+  },
+  "กับดักแมลงหวี่แบบกาวเหนียว<SEP>ปุ๋ยและยาดูแลต้นไม้": {
+    "chunk_ids": [
+      "kb-03_pots_supplies-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162243,
+    "update_time": 1792162243,
+    "_id": "กับดักแมลงหวี่แบบกาวเหนียว<SEP>ปุ๋ยและยาดูแลต้นไม้"
+  },
+  "ฟ็อกกี้ฉีดน้ำ<SEP>อุปกรณ์": {
+    "chunk_ids": [
+      "kb-03_pots_supplies-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162243,
+    "update_time": 1792162243,
+    "_id": "ฟ็อกกี้ฉีดน้ำ<SEP>อุปกรณ์"
+  },
+  "บัวรดน้ำปากยาว<SEP>อุปกรณ์": {
+    "chunk_ids": [
+      "kb-03_pots_supplies-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162243,
+    "update_time": 1792162243,
+    "_id": "บัวรดน้ำปากยาว<SEP>อุปกรณ์"
+  },
+  "อุปกรณ์<SEP>ไม้ค้ำหุ้มมอส": {
+    "chunk_ids": [
+      "kb-03_pots_supplies-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162243,
+    "update_time": 1792162243,
+    "_id": "อุปกรณ์<SEP>ไม้ค้ำหุ้มมอส"
+  },
+  "กรรไกรตัดแต่งกิ่ง<SEP>อุปกรณ์": {
+    "chunk_ids": [
+      "kb-03_pots_supplies-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162243,
+    "update_time": 1792162243,
+    "_id": "กรรไกรตัดแต่งกิ่ง<SEP>อุปกรณ์"
+  },
+  "ชุดช้อนพรวนดินจิ๋ว<SEP>อุปกรณ์": {
+    "chunk_ids": [
+      "kb-03_pots_supplies-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162243,
+    "update_time": 1792162243,
+    "_id": "ชุดช้อนพรวนดินจิ๋ว<SEP>อุปกรณ์"
+  },
+  "บริการเปลี่ยนกระถาง<SEP>ร้าน": {
+    "chunk_ids": [
+      "kb-04_services-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792162259,
+    "update_time": 1792162259,
+    "_id": "บริการเปลี่ยนกระถาง<SEP>ร้าน"
+  },
+  "บริการฝากเลี้ยงต้นไม้<SEP>ร้าน": {
+    "chunk_ids": [
+      "kb-04_services-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792162259,
+    "update_time": 1792162259,
+    "_id": "บริการฝากเลี้ยงต้นไม้<SEP>ร้าน"
+  },
+  "บริการเปลี่ยนกระถาง<SEP>ลูกค้า": {
+    "chunk_ids": [
+      "kb-04_services-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792162259,
+    "update_time": 1792162259,
+    "_id": "บริการเปลี่ยนกระถาง<SEP>ลูกค้า"
+  },
+  "บริการฝากเลี้ยงต้นไม้<SEP>ลูกค้า": {
+    "chunk_ids": [
+      "kb-04_services-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792162259,
+    "update_time": 1792162259,
+    "_id": "บริการฝากเลี้ยงต้นไม้<SEP>ลูกค้า"
+  },
+  "บริการตรวจสุขภาพต้นไม้<SEP>บอท": {
+    "chunk_ids": [
+      "kb-04_services-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162259,
+    "update_time": 1792162259,
+    "_id": "บริการตรวจสุขภาพต้นไม้<SEP>บอท"
+  },
+  "บริการตรวจสุขภาพต้นไม้<SEP>หน้าร้าน": {
+    "chunk_ids": [
+      "kb-04_services-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162259,
+    "update_time": 1792162259,
+    "_id": "บริการตรวจสุขภาพต้นไม้<SEP>หน้าร้าน"
+  },
+  "Workshop ทำสวนขวดแก้ว<SEP>หน้าร้าน": {
+    "chunk_ids": [
+      "kb-04_services-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162259,
+    "update_time": 1792162259,
+    "_id": "Workshop ทำสวนขวดแก้ว<SEP>หน้าร้าน"
+  },
+  "กรุงเทพฯ และปริมณฑล<SEP>บริการจัดสวนกระถางระเบียงคอนโด": {
+    "chunk_ids": [
+      "kb-04_services-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1792162259,
+    "update_time": 1792162259,
+    "_id": "กรุงเทพฯ และปริมณฑล<SEP>บริการจัดสวนกระถางระเบียงคอนโด"
+  },
+  "บริการจัดสวนกระถางระเบียงคอนโด<SEP>แอดมิน": {
+    "chunk_ids": [
+      "kb-04_services-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1792162259,
+    "update_time": 1792162259,
+    "_id": "บริการจัดสวนกระถางระเบียงคอนโด<SEP>แอดมิน"
+  },
+  "บริการจัดสวนกระถางระเบียงคอนโด<SEP>แชทบอท": {
+    "chunk_ids": [
+      "kb-04_services-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1792162259,
+    "update_time": 1792162259,
+    "_id": "บริการจัดสวนกระถางระเบียงคอนโด<SEP>แชทบอท"
+  },
+  "LINE OA @baanbaikhiao<SEP>ลูกค้า": {
+    "chunk_ids": [
+      "kb-05_shipping_payment-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162264,
+    "update_time": 1792162264,
+    "_id": "LINE OA @baanbaikhiao<SEP>ลูกค้า"
+  },
+  "LINE OA @baanbaikhiao<SEP>แอดมิน": {
+    "chunk_ids": [
+      "kb-05_shipping_payment-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162264,
+    "update_time": 1792162264,
+    "_id": "LINE OA @baanbaikhiao<SEP>แอดมิน"
+  },
+  "เลขคำสั่งซื้อ<SEP>แอดมิน": {
+    "chunk_ids": [
+      "kb-05_shipping_payment-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162264,
+    "update_time": 1792162264,
+    "_id": "เลขคำสั่งซื้อ<SEP>แอดมิน"
+  },
+  "ลูกค้า<SEP>เลขคำสั่งซื้อ": {
+    "chunk_ids": [
+      "kb-05_shipping_payment-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162264,
+    "update_time": 1792162264,
+    "_id": "ลูกค้า<SEP>เลขคำสั่งซื้อ"
+  },
+  "ลูกค้า<SEP>แชทบอท": {
+    "chunk_ids": [
+      "kb-05_shipping_payment-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162264,
+    "update_time": 1792162264,
+    "_id": "ลูกค้า<SEP>แชทบอท"
+  },
+  "กรุงเทพฯ<SEP>นนทบุรี": {
+    "chunk_ids": [
+      "kb-05_shipping_payment-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1792162264,
+    "update_time": 1792162264,
+    "_id": "กรุงเทพฯ<SEP>นนทบุรี"
+  },
+  "กรุงเทพฯ<SEP>ปทุมธานี": {
+    "chunk_ids": [
+      "kb-05_shipping_payment-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1792162264,
+    "update_time": 1792162264,
+    "_id": "กรุงเทพฯ<SEP>ปทุมธานี"
+  },
+  "กรุงเทพฯ<SEP>สมุทรปราการ": {
+    "chunk_ids": [
+      "kb-05_shipping_payment-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1792162264,
+    "update_time": 1792162264,
+    "_id": "กรุงเทพฯ<SEP>สมุทรปราการ"
+  },
+  "กรุงเทพฯ<SEP>สมุทรสาคร": {
+    "chunk_ids": [
+      "kb-05_shipping_payment-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1792162264,
+    "update_time": 1792162264,
+    "_id": "กรุงเทพฯ<SEP>สมุทรสาคร"
+  },
+  "กรุงเทพฯ<SEP>นครปฐม": {
+    "chunk_ids": [
+      "kb-05_shipping_payment-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1792162264,
+    "update_time": 1792162264,
+    "_id": "กรุงเทพฯ<SEP>นครปฐม"
+  },
+  "การจัดส่งพัสดุ<SEP>บจก. บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-05_shipping_payment-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1792162264,
+    "update_time": 1792162264,
+    "_id": "การจัดส่งพัสดุ<SEP>บจก. บ้านใบเขียว"
+  },
+  "การชำระเงิน<SEP>บจก. บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-05_shipping_payment-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1792162264,
+    "update_time": 1792162264,
+    "_id": "การชำระเงิน<SEP>บจก. บ้านใบเขียว"
+  },
+  "การจัดส่งพัสดุ<SEP>ต้นไม้": {
+    "chunk_ids": [
+      "kb-05_shipping_payment-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1792162264,
+    "update_time": 1792162264,
+    "_id": "การจัดส่งพัสดุ<SEP>ต้นไม้"
+  },
+  "การจัดส่งพัสดุ<SEP>อุปกรณ์/ดิน/ปุ๋ย": {
+    "chunk_ids": [
+      "kb-05_shipping_payment-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1792162264,
+    "update_time": 1792162264,
+    "_id": "การจัดส่งพัสดุ<SEP>อุปกรณ์/ดิน/ปุ๋ย"
+  },
+  "สลิปการโอนเงิน<SEP>แชทบอท": {
+    "chunk_ids": [
+      "kb-05_shipping_payment-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1792162264,
+    "update_time": 1792162264,
+    "_id": "สลิปการโอนเงิน<SEP>แชทบอท"
+  },
+  "แชทบอท<SEP>แอดมิน": {
+    "chunk_ids": [
+      "kb-05_shipping_payment-chunk-004",
+      "kb-06_policies_promotions-chunk-002"
+    ],
+    "count": 2,
+    "update_time": 1792162317,
+    "_id": "แชทบอท<SEP>แอดมิน"
+  },
+  "สลิปการโอนเงิน<SEP>แอดมิน": {
+    "chunk_ids": [
+      "kb-05_shipping_payment-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1792162264,
+    "update_time": 1792162264,
+    "_id": "สลิปการโอนเงิน<SEP>แอดมิน"
+  },
+  "คำสั่งซื้อ<SEP>ร้าน": {
+    "chunk_ids": [
+      "kb-05_shipping_payment-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1792162264,
+    "update_time": 1792162264,
+    "_id": "คำสั่งซื้อ<SEP>ร้าน"
+  },
+  "ต้นไม้<SEP>ร้าน": {
+    "chunk_ids": [
+      "kb-06_policies_promotions-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792162317,
+    "update_time": 1792162317,
+    "_id": "ต้นไม้<SEP>ร้าน"
+  },
+  "การเคลมสินค้า<SEP>ลูกค้า": {
+    "chunk_ids": [
+      "kb-06_policies_promotions-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792162317,
+    "update_time": 1792162317,
+    "_id": "การเคลมสินค้า<SEP>ลูกค้า"
+  },
+  "การเคลมสินค้า<SEP>ร้าน": {
+    "chunk_ids": [
+      "kb-06_policies_promotions-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792162317,
+    "update_time": 1792162317,
+    "_id": "การเคลมสินค้า<SEP>ร้าน"
+  },
+  "ต้นไม้<SEP>สมาชิกบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-06_policies_promotions-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162317,
+    "update_time": 1792162317,
+    "_id": "ต้นไม้<SEP>สมาชิกบ้านใบเขียว"
+  },
+  "Green October<SEP>ต้นไม้": {
+    "chunk_ids": [
+      "kb-06_policies_promotions-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162317,
+    "update_time": 1792162317,
+    "_id": "Green October<SEP>ต้นไม้"
+  },
+  "กระถาง อุปกรณ์ ดิน ปุ๋ย<SEP>เครดิตร้าน": {
+    "chunk_ids": [
+      "kb-06_policies_promotions-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162317,
+    "update_time": 1792162317,
+    "_id": "กระถาง อุปกรณ์ ดิน ปุ๋ย<SEP>เครดิตร้าน"
+  },
+  "สมาชิก<SEP>ส่วนลดเปอร์เซ็นต์": {
+    "chunk_ids": [
+      "kb-06_policies_promotions-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1792162317,
+    "update_time": 1792162317,
+    "_id": "สมาชิก<SEP>ส่วนลดเปอร์เซ็นต์"
+  },
+  "Green October<SEP>ส่วนลดเปอร์เซ็นต์": {
+    "chunk_ids": [
+      "kb-06_policies_promotions-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1792162317,
+    "update_time": 1792162317,
+    "_id": "Green October<SEP>ส่วนลดเปอร์เซ็นต์"
+  },
+  "ส่วนลดเปอร์เซ็นต์<SEP>ส่วนลดแลกแต้ม": {
+    "chunk_ids": [
+      "kb-06_policies_promotions-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1792162317,
+    "update_time": 1792162317,
+    "_id": "ส่วนลดเปอร์เซ็นต์<SEP>ส่วนลดแลกแต้ม"
+  },
+  "ข้อมูลลูกค้า<SEP>แอดมิน": {
+    "chunk_ids": [
+      "kb-06_policies_promotions-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1792162317,
+    "update_time": 1792162317,
+    "_id": "ข้อมูลลูกค้า<SEP>แอดมิน"
+  },
+  "การดูแลต้นไม้<SEP>การรดน้ำ": {
+    "chunk_ids": [
+      "kb-07_plant_care_guide-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792162323,
+    "update_time": 1792162323,
+    "_id": "การดูแลต้นไม้<SEP>การรดน้ำ"
+  },
+  "การดูแลต้นไม้<SEP>แสงแดดรำไร": {
+    "chunk_ids": [
+      "kb-07_plant_care_guide-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792162323,
+    "update_time": 1792162323,
+    "_id": "การดูแลต้นไม้<SEP>แสงแดดรำไร"
+  },
+  "การดูแลต้นไม้<SEP>การใส่ปุ๋ย": {
+    "chunk_ids": [
+      "kb-07_plant_care_guide-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792162323,
+    "update_time": 1792162323,
+    "_id": "การดูแลต้นไม้<SEP>การใส่ปุ๋ย"
+  },
+  "การดูแลต้นไม้<SEP>การเปลี่ยนกระถาง": {
+    "chunk_ids": [
+      "kb-07_plant_care_guide-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792162323,
+    "update_time": 1792162323,
+    "_id": "การดูแลต้นไม้<SEP>การเปลี่ยนกระถาง"
+  },
+  "รากเน่า<SEP>ใบเหลือง": {
+    "chunk_ids": [
+      "kb-07_plant_care_guide-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162323,
+    "update_time": 1792162323,
+    "_id": "รากเน่า<SEP>ใบเหลือง"
+  },
+  "คล้านกยูง<SEP>ปลายใบไหม้": {
+    "chunk_ids": [
+      "kb-07_plant_care_guide-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162323,
+    "update_time": 1792162323,
+    "_id": "คล้านกยูง<SEP>ปลายใบไหม้"
+  },
+  "น้ำมันสะเดา<SEP>เพลี้ยแป้ง (Mealybug)": {
+    "chunk_ids": [
+      "kb-07_plant_care_guide-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1792162323,
+    "update_time": 1792162323,
+    "_id": "น้ำมันสะเดา<SEP>เพลี้ยแป้ง (Mealybug)"
+  },
+  "น้ำมันสะเดา<SEP>ไรแดง (Spider mite)": {
+    "chunk_ids": [
+      "kb-07_plant_care_guide-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1792162323,
+    "update_time": 1792162323,
+    "_id": "น้ำมันสะเดา<SEP>ไรแดง (Spider mite)"
+  },
+  "กับดักแมลงหวี่แบบกาวเหนียว<SEP>แมลงหวี่ดิน": {
+    "chunk_ids": [
+      "kb-07_plant_care_guide-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1792162323,
+    "update_time": 1792162323,
+    "_id": "กับดักแมลงหวี่แบบกาวเหนียว<SEP>แมลงหวี่ดิน"
+  },
+  "หินภูเขาไฟ<SEP>แมลงหวี่ดิน": {
+    "chunk_ids": [
+      "kb-07_plant_care_guide-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1792162323,
+    "update_time": 1792162323,
+    "_id": "หินภูเขาไฟ<SEP>แมลงหวี่ดิน"
+  },
+  "พลูด่าง<SEP>เงินไหลมา": {
+    "chunk_ids": [
+      "kb-07_plant_care_guide-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1792162323,
+    "update_time": 1792162323,
+    "_id": "พลูด่าง<SEP>เงินไหลมา"
+  },
+  "ร้าน<SEP>แชทบอท": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792162362,
+    "update_time": 1792162362,
+    "_id": "ร้าน<SEP>แชทบอท"
+  },
+  "ร้าน<SEP>แอดมิน": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792162362,
+    "update_time": 1792162362,
+    "_id": "ร้าน<SEP>แอดมิน"
+  },
+  "ร้าน<SEP>สถานีรถไฟฟ้าสวนสวย": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792162362,
+    "update_time": 1792162362,
+    "_id": "ร้าน<SEP>สถานีรถไฟฟ้าสวนสวย"
+  },
+  "ร้าน<SEP>ลิ้นมังกร": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792162362,
+    "update_time": 1792162362,
+    "_id": "ร้าน<SEP>ลิ้นมังกร"
+  },
+  "พลูด่าง<SEP>ร้าน": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792162362,
+    "update_time": 1792162362,
+    "_id": "พลูด่าง<SEP>ร้าน"
+  },
+  "กวักมรกต ZZ Plant<SEP>ร้าน": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792162362,
+    "update_time": 1792162362,
+    "_id": "กวักมรกต ZZ Plant<SEP>ร้าน"
+  },
+  "ร้าน<SEP>เขียวหมื่นปี": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792162362,
+    "update_time": 1792162362,
+    "_id": "ร้าน<SEP>เขียวหมื่นปี"
+  },
+  "ร้าน<SEP>เดหลี": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792162362,
+    "update_time": 1792162362,
+    "_id": "ร้าน<SEP>เดหลี"
+  },
+  "ปาล์มไผ่<SEP>ร้าน": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792162362,
+    "update_time": 1792162362,
+    "_id": "ปาล์มไผ่<SEP>ร้าน"
+  },
+  "กล้วยไม้ฟาแลนน็อปซิส<SEP>ของขวัญ": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162362,
+    "update_time": 1792162362,
+    "_id": "กล้วยไม้ฟาแลนน็อปซิส<SEP>ของขวัญ"
+  },
+  "กวักมรกต<SEP>ของขวัญ": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162362,
+    "update_time": 1792162362,
+    "_id": "กวักมรกต<SEP>ของขวัญ"
+  },
+  "ของขวัญ<SEP>หน้าวัว": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162362,
+    "update_time": 1792162362,
+    "_id": "ของขวัญ<SEP>หน้าวัว"
+  },
+  "ของขวัญ<SEP>ไผ่กวนอิม": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162362,
+    "update_time": 1792162362,
+    "_id": "ของขวัญ<SEP>ไผ่กวนอิม"
+  },
+  "ของขวัญ<SEP>โฮย่าหัวใจ": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162362,
+    "update_time": 1792162362,
+    "_id": "ของขวัญ<SEP>โฮย่าหัวใจ"
+  },
+  "กวักมรกต<SEP>ไม้มงคล": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162362,
+    "update_time": 1792162362,
+    "_id": "กวักมรกต<SEP>ไม้มงคล"
+  },
+  "เงินไหลมา<SEP>ไม้มงคล": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162362,
+    "update_time": 1792162362,
+    "_id": "เงินไหลมา<SEP>ไม้มงคล"
+  },
+  "วาสนา<SEP>ไม้มงคล": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162362,
+    "update_time": 1792162362,
+    "_id": "วาสนา<SEP>ไม้มงคล"
+  },
+  "ต้นหยก<SEP>ไม้มงคล": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162362,
+    "update_time": 1792162362,
+    "_id": "ต้นหยก<SEP>ไม้มงคล"
+  },
+  "จั๋ง<SEP>ไม้มงคล": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162362,
+    "update_time": 1792162362,
+    "_id": "จั๋ง<SEP>ไม้มงคล"
+  },
+  "ถังทอง<SEP>ไม้มงคล": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162362,
+    "update_time": 1792162362,
+    "_id": "ถังทอง<SEP>ไม้มงคล"
+  },
+  "โป๊ยเซียน<SEP>ไม้มงคล": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162362,
+    "update_time": 1792162362,
+    "_id": "โป๊ยเซียน<SEP>ไม้มงคล"
+  },
+  "การโอนเงิน<SEP>สมาชิก": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1792162362,
+    "update_time": 1792162362,
+    "_id": "การโอนเงิน<SEP>สมาชิก"
+  },
+  "สมาชิก<SEP>เงินสด": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1792162362,
+    "update_time": 1792162362,
+    "_id": "สมาชิก<SEP>เงินสด"
+  },
+  "QR<SEP>สมาชิก": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1792162362,
+    "update_time": 1792162362,
+    "_id": "QR<SEP>สมาชิก"
+  },
+  "บัตร<SEP>สมาชิก": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1792162362,
+    "update_time": 1792162362,
+    "_id": "บัตร<SEP>สมาชิก"
+  },
+  "ระบบสะสมแต้ม<SEP>สมาชิก": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1792162362,
+    "update_time": 1792162362,
+    "_id": "ระบบสะสมแต้ม<SEP>สมาชิก"
+  },
+  "Green October<SEP>สมาชิก": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1792162362,
+    "update_time": 1792162362,
+    "_id": "Green October<SEP>สมาชิก"
+  },
+  "บริการเปลี่ยนกระถาง<SEP>แชทบอท": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1792162362,
+    "update_time": 1792162362,
+    "_id": "บริการเปลี่ยนกระถาง<SEP>แชทบอท"
+  },
+  "ต้นไม้<SEP>แชทบอท": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1792162362,
+    "update_time": 1792162362,
+    "_id": "ต้นไม้<SEP>แชทบอท"
+  },
+  "LINE @baanbaikhiao<SEP>แอดมิน": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1792162362,
+    "update_time": 1792162362,
+    "_id": "LINE @baanbaikhiao<SEP>แอดมิน"
+  },
+  "ต้นไม้<SEP>แอดมิน": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1792162362,
+    "update_time": 1792162362,
+    "_id": "ต้นไม้<SEP>แอดมิน"
+  },
+  "build_plants_kb.py<SEP>plants.csv": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "build_plants_kb.py<SEP>plants.csv"
+  },
+  "build_plants_kb.py<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "build_plants_kb.py<SEP>บ้านใบเขียว"
+  },
+  "Aglaonema Silver Bay<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-001",
+      "kb-09_plant_recommendations-chunk-003",
+      "kb-09_plant_recommendations-chunk-005"
+    ],
+    "count": 3,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Aglaonema Silver Bay<SEP>ร้านบ้านใบเขียว"
+  },
+  "Chinese Evergreen<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-001",
+      "kb-09_plant_recommendations-chunk-003",
+      "kb-09_plant_recommendations-chunk-005",
+      "kb-09_plant_recommendations-chunk-008"
+    ],
+    "count": 4,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Chinese Evergreen<SEP>ร้านบ้านใบเขียว"
+  },
+  "ZZ Plant<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-001",
+      "kb-09_plant_recommendations-chunk-003",
+      "kb-09_plant_recommendations-chunk-005",
+      "kb-09_plant_recommendations-chunk-008",
+      "kb-09_plant_recommendations-chunk-009",
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 6,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "ZZ Plant<SEP>ร้านบ้านใบเขียว"
+  },
+  "ZZ Raven<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-001",
+      "kb-09_plant_recommendations-chunk-003",
+      "kb-09_plant_recommendations-chunk-005",
+      "kb-09_plant_recommendations-chunk-008",
+      "kb-09_plant_recommendations-chunk-009"
+    ],
+    "count": 5,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "ZZ Raven<SEP>ร้านบ้านใบเขียว"
+  },
+  "Snake Plant<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-001",
+      "kb-09_plant_recommendations-chunk-003",
+      "kb-09_plant_recommendations-chunk-005"
+    ],
+    "count": 3,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Snake Plant<SEP>ร้านบ้านใบเขียว"
+  },
+  "Snake Plant Laurentii<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-001",
+      "kb-09_plant_recommendations-chunk-003",
+      "kb-09_plant_recommendations-chunk-005",
+      "kb-09_plant_recommendations-chunk-008"
+    ],
+    "count": 4,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Snake Plant Laurentii<SEP>ร้านบ้านใบเขียว"
+  },
+  "Cylindrical Snake Plant<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-001",
+      "kb-09_plant_recommendations-chunk-003",
+      "kb-09_plant_recommendations-chunk-005"
+    ],
+    "count": 3,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Cylindrical Snake Plant<SEP>ร้านบ้านใบเขียว"
+  },
+  "Bird's Nest Snake Plant<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-001",
+      "kb-09_plant_recommendations-chunk-003",
+      "kb-09_plant_recommendations-chunk-005",
+      "kb-09_plant_recommendations-chunk-011"
+    ],
+    "count": 4,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Bird's Nest Snake Plant<SEP>ร้านบ้านใบเขียว"
+  },
+  "Lucky Bamboo<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-001",
+      "kb-09_plant_recommendations-chunk-003",
+      "kb-09_plant_recommendations-chunk-005",
+      "kb-09_plant_recommendations-chunk-008",
+      "kb-09_plant_recommendations-chunk-009",
+      "kb-09_plant_recommendations-chunk-011",
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 7,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Lucky Bamboo<SEP>ร้านบ้านใบเขียว"
+  },
+  "Golden Pothos<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-001",
+      "kb-09_plant_recommendations-chunk-003",
+      "kb-09_plant_recommendations-chunk-005"
+    ],
+    "count": 3,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Golden Pothos<SEP>ร้านบ้านใบเขียว"
+  },
+  "Heartleaf Philodendron<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-001",
+      "kb-09_plant_recommendations-chunk-003",
+      "kb-09_plant_recommendations-chunk-005"
+    ],
+    "count": 3,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Heartleaf Philodendron<SEP>ร้านบ้านใบเขียว"
+  },
+  "Inch Plant<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Inch Plant<SEP>ร้านบ้านใบเขียว"
+  },
+  "Spider Plant<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-001",
+      "kb-09_plant_recommendations-chunk-003",
+      "kb-09_plant_recommendations-chunk-005",
+      "kb-09_plant_recommendations-chunk-008"
+    ],
+    "count": 4,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Spider Plant<SEP>ร้านบ้านใบเขียว"
+  },
+  "Zebra Haworthia<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-001",
+      "kb-09_plant_recommendations-chunk-011"
+    ],
+    "count": 2,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Zebra Haworthia<SEP>ร้านบ้านใบเขียว"
+  },
+  "Ghost Plant<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Ghost Plant<SEP>ร้านบ้านใบเขียว"
+  },
+  "Moss Rose<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Moss Rose<SEP>ร้านบ้านใบเขียว"
+  },
+  "Lemongrass<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Lemongrass<SEP>ร้านบ้านใบเขียว"
+  },
+  "Pandan<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Pandan<SEP>ร้านบ้านใบเขียว"
+  },
+  "79 บาท<SEP>Zebra Haworthia": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "79 บาท<SEP>Zebra Haworthia"
+  },
+  "69 บาท<SEP>Ghost Plant": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "69 บาท<SEP>Ghost Plant"
+  },
+  "45 บาท<SEP>Moss Rose": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "45 บาท<SEP>Moss Rose"
+  },
+  "35 บาท<SEP>Lemongrass": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "35 บาท<SEP>Lemongrass"
+  },
+  "59 บาท<SEP>Pandan": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "59 บาท<SEP>Pandan"
+  },
+  "Aglaonema Siam Aurora<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-003",
+      "kb-09_plant_recommendations-chunk-005",
+      "kb-09_plant_recommendations-chunk-008"
+    ],
+    "count": 3,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Aglaonema Siam Aurora<SEP>ร้านบ้านใบเขียว"
+  },
+  "Arrowhead Plant<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-003",
+      "kb-09_plant_recommendations-chunk-005",
+      "kb-09_plant_recommendations-chunk-008"
+    ],
+    "count": 3,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Arrowhead Plant<SEP>ร้านบ้านใบเขียว"
+  },
+  "Baby Rubber Plant<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-003",
+      "kb-09_plant_recommendations-chunk-005",
+      "kb-09_plant_recommendations-chunk-011"
+    ],
+    "count": 3,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Baby Rubber Plant<SEP>ร้านบ้านใบเขียว"
+  },
+  "Satin Pothos<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-003",
+      "kb-09_plant_recommendations-chunk-005"
+    ],
+    "count": 2,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Satin Pothos<SEP>ร้านบ้านใบเขียว"
+  },
+  "ร้านบ้านใบเขียว<SEP>อโลคาเซีย โพลลี่": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "ร้านบ้านใบเขียว<SEP>อโลคาเซีย โพลลี่"
+  },
+  "ร้านบ้านใบเขียว<SEP>ลิทอปส์": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "ร้านบ้านใบเขียว<SEP>ลิทอปส์"
+  },
+  "ร้านบ้านใบเขียว<SEP>แอสโตรไฟตัม": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "ร้านบ้านใบเขียว<SEP>แอสโตรไฟตัม"
+  },
+  "กล้วยไม้แคทลียา<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "กล้วยไม้แคทลียา<SEP>ร้านบ้านใบเขียว"
+  },
+  "ร้านบ้านใบเขียว<SEP>เฟิร์นก้านดำ": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "ร้านบ้านใบเขียว<SEP>เฟิร์นก้านดำ"
+  },
+  "ร้านบ้านใบเขียว<SEP>หยาดน้ำค้าง": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "ร้านบ้านใบเขียว<SEP>หยาดน้ำค้าง"
+  },
+  "ซาราซีเนีย<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "ซาราซีเนีย<SEP>ร้านบ้านใบเขียว"
+  },
+  "ร้านบ้านใบเขียว<SEP>ลาเวนเดอร์": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "ร้านบ้านใบเขียว<SEP>ลาเวนเดอร์"
+  },
+  "Syngonium Neon Robusta<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Syngonium Neon Robusta<SEP>ร้านบ้านใบเขียว"
+  },
+  "Chinese Money Plant<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-008",
+      "kb-09_plant_recommendations-chunk-011"
+    ],
+    "count": 2,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Chinese Money Plant<SEP>ร้านบ้านใบเขียว"
+  },
+  "Croton<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Croton<SEP>ร้านบ้านใบเขียว"
+  },
+  "Lady Palm<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-008",
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 2,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Lady Palm<SEP>ร้านบ้านใบเขียว"
+  },
+  "Sago Palm<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Sago Palm<SEP>ร้านบ้านใบเขียว"
+  },
+  "Corn Plant<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-008",
+      "kb-09_plant_recommendations-chunk-009",
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 3,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Corn Plant<SEP>ร้านบ้านใบเขียว"
+  },
+  "Jade Plant<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-008",
+      "kb-09_plant_recommendations-chunk-009"
+    ],
+    "count": 2,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Jade Plant<SEP>ร้านบ้านใบเขียว"
+  },
+  "Crown of Thorns<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Crown of Thorns<SEP>ร้านบ้านใบเขียว"
+  },
+  "Desert Rose<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Desert Rose<SEP>ร้านบ้านใบเขียว"
+  },
+  "Golden Barrel Cactus<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Golden Barrel Cactus<SEP>ร้านบ้านใบเขียว"
+  },
+  "Anthurium Red<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-008",
+      "kb-09_plant_recommendations-chunk-009"
+    ],
+    "count": 2,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Anthurium Red<SEP>ร้านบ้านใบเขียว"
+  },
+  "Monstera Deliciosa<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-009",
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 2,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Monstera Deliciosa<SEP>ร้านบ้านใบเขียว"
+  },
+  "String of Hearts<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "String of Hearts<SEP>ร้านบ้านใบเขียว"
+  },
+  "Sweetheart Hoya<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-009",
+      "kb-09_plant_recommendations-chunk-011"
+    ],
+    "count": 2,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Sweetheart Hoya<SEP>ร้านบ้านใบเขียว"
+  },
+  "Echeveria<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Echeveria<SEP>ร้านบ้านใบเขียว"
+  },
+  "Assorted Cactus<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Assorted Cactus<SEP>ร้านบ้านใบเขียว"
+  },
+  "Moon Cactus<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-009",
+      "kb-09_plant_recommendations-chunk-011"
+    ],
+    "count": 2,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Moon Cactus<SEP>ร้านบ้านใบเขียว"
+  },
+  "Christmas Cactus<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Christmas Cactus<SEP>ร้านบ้านใบเขียว"
+  },
+  "Anthurium Pink<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Anthurium Pink<SEP>ร้านบ้านใบเขียว"
+  },
+  "Kalanchoe<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Kalanchoe<SEP>ร้านบ้านใบเขียว"
+  },
+  "Mini Rose<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Mini Rose<SEP>ร้านบ้านใบเขียว"
+  },
+  "Moth Orchid<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-009",
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 2,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Moth Orchid<SEP>ร้านบ้านใบเขียว"
+  },
+  "Philodendron Birkin<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Philodendron Birkin<SEP>ร้านบ้านใบเขียว"
+  },
+  "Watermelon Peperomia<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Watermelon Peperomia<SEP>ร้านบ้านใบเขียว"
+  },
+  "Nerve Plant<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Nerve Plant<SEP>ร้านบ้านใบเขียว"
+  },
+  "N'Joy Pothos<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "N'Joy Pothos<SEP>ร้านบ้านใบเขียว"
+  },
+  "Peperomia Hope<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Peperomia Hope<SEP>ร้านบ้านใบเขียว"
+  },
+  "Parlor Palm<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Parlor Palm<SEP>ร้านบ้านใบเขียว"
+  },
+  "Ponytail Palm<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Ponytail Palm<SEP>ร้านบ้านใบเขียว"
+  },
+  "Dwarf Fiddle Leaf Fig<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Dwarf Fiddle Leaf Fig<SEP>ร้านบ้านใบเขียว"
+  },
+  "Window Haworthia<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Window Haworthia<SEP>ร้านบ้านใบเขียว"
+  },
+  "2 นิ้ว<SEP>Zebra Haworthia": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "2 นิ้ว<SEP>Zebra Haworthia"
+  },
+  "2 นิ้ว<SEP>Window Haworthia": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "2 นิ้ว<SEP>Window Haworthia"
+  },
+  "2 นิ้ว<SEP>Moon Cactus": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "2 นิ้ว<SEP>Moon Cactus"
+  },
+  "4 นิ้ว<SEP>African Violet": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "4 นิ้ว<SEP>African Violet"
+  },
+  "3 นิ้ว<SEP>Earth Star": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "3 นิ้ว<SEP>Earth Star"
+  },
+  "1 ต้น<SEP>Air Plant": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "1 ต้น<SEP>Air Plant"
+  },
+  "Air Plant<SEP>ชุด 5 ต้น": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Air Plant<SEP>ชุด 5 ต้น"
+  },
+  "กระดาด<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "กระดาด<SEP>บ้านใบเขียว"
+  },
+  "บ้านใบเขียว<SEP>โกสน": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "บ้านใบเขียว<SEP>โกสน"
+  },
+  "บ้านใบเขียว<SEP>อากาเว่": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "บ้านใบเขียว<SEP>อากาเว่"
+  },
+  "บ้านใบเขียว<SEP>เซดั้ม หางลา": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "บ้านใบเขียว<SEP>เซดั้ม หางลา"
+  },
+  "บ้านใบเขียว<SEP>ว่านหางจระเข้": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "บ้านใบเขียว<SEP>ว่านหางจระเข้"
+  },
+  "กุหลาบหินผี<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "กุหลาบหินผี<SEP>บ้านใบเขียว"
+  },
+  "บ้านใบเขียว<SEP>พญาไร้ใบ": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "บ้านใบเขียว<SEP>พญาไร้ใบ"
+  },
+  "บ้านใบเขียว<SEP>แคคตัส คละสายพันธุ์": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "บ้านใบเขียว<SEP>แคคตัส คละสายพันธุ์"
+  },
+  "กาลันโชเอ<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "กาลันโชเอ<SEP>บ้านใบเขียว"
+  },
+  "บ้านใบเขียว<SEP>มะลิ": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "บ้านใบเขียว<SEP>มะลิ"
+  },
+  "บ้านใบเขียว<SEP>พุดซ้อน": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "บ้านใบเขียว<SEP>พุดซ้อน"
+  },
+  "บ้านใบเขียว<SEP>เฟื่องฟ้า": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "บ้านใบเขียว<SEP>เฟื่องฟ้า"
+  },
+  "กุหลาบมินิ<SEP>บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "กุหลาบมินิ<SEP>บ้านใบเขียว"
+  },
+  "Holy Basil<SEP>Kitchen Herb Set": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Holy Basil<SEP>Kitchen Herb Set"
+  },
+  "Kitchen Herb Set<SEP>Thai Basil": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Kitchen Herb Set<SEP>Thai Basil"
+  },
+  "Kitchen Herb Set<SEP>Mint": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Kitchen Herb Set<SEP>Mint"
+  },
+  "Hoya Carnosa<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Hoya Carnosa<SEP>ร้านบ้านใบเขียว"
+  },
+  "มะลิ<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "มะลิ<SEP>ร้านบ้านใบเขียว"
+  },
+  "พุดซ้อน<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "พุดซ้อน<SEP>ร้านบ้านใบเขียว"
+  },
+  "Rosemary<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Rosemary<SEP>ร้านบ้านใบเขียว"
+  },
+  "Lavender<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Lavender<SEP>ร้านบ้านใบเขียว"
+  },
+  "พลูด่าง<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "พลูด่าง<SEP>ร้านบ้านใบเขียว"
+  },
+  "ร้านบ้านใบเขียว<SEP>ไอวี่": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "ร้านบ้านใบเขียว<SEP>ไอวี่"
+  },
+  "ร้านบ้านใบเขียว<SEP>เศรษฐีเรือนใน": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "ร้านบ้านใบเขียว<SEP>เศรษฐีเรือนใน"
+  },
+  "ร้านบ้านใบเขียว<SEP>เดหลี": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "ร้านบ้านใบเขียว<SEP>เดหลี"
+  },
+  "ร้านบ้านใบเขียว<SEP>เฟิร์นบอสตัน": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "ร้านบ้านใบเขียว<SEP>เฟิร์นบอสตัน"
+  },
+  "ร้านบ้านใบเขียว<SEP>ลิ้นมังกรแคระ": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "ร้านบ้านใบเขียว<SEP>ลิ้นมังกรแคระ"
+  },
+  "ฟิตโตเนีย<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "ฟิตโตเนีย<SEP>ร้านบ้านใบเขียว"
+  },
+  "ร้านบ้านใบเขียว<SEP>โฮย่าหัวใจ": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "ร้านบ้านใบเขียว<SEP>โฮย่าหัวใจ"
+  },
+  "กุหลาบหิน<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "กุหลาบหิน<SEP>ร้านบ้านใบเขียว"
+  },
+  "ร้านบ้านใบเขียว<SEP>ฮาโวเทีย ม้าลาย": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "ร้านบ้านใบเขียว<SEP>ฮาโวเทีย ม้าลาย"
+  },
+  "ร้านบ้านใบเขียว<SEP>ว่านหางจระเข้": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "ร้านบ้านใบเขียว<SEP>ว่านหางจระเข้"
+  },
+  "กุหลาบหินผี<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "กุหลาบหินผี<SEP>ร้านบ้านใบเขียว"
+  },
+  "ร้านบ้านใบเขียว<SEP>แคคตัส คละสายพันธุ์": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "ร้านบ้านใบเขียว<SEP>แคคตัส คละสายพันธุ์"
+  },
+  "ยิมโนคาไลเซียม<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "ยิมโนคาไลเซียม<SEP>ร้านบ้านใบเขียว"
+  },
+  "ยิมโนสีเสียบตอ<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "ยิมโนสีเสียบตอ<SEP>ร้านบ้านใบเขียว"
+  },
+  "ร้านบ้านใบเขียว<SEP>แมมมิลลาเรีย": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "ร้านบ้านใบเขียว<SEP>แมมมิลลาเรีย"
+  },
+  "ร้านบ้านใบเขียว<SEP>อิชินอปซิส": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "ร้านบ้านใบเขียว<SEP>อิชินอปซิส"
+  },
+  "กาลันโชเอ<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "กาลันโชเอ<SEP>ร้านบ้านใบเขียว"
+  },
+  "บานชื่น<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "บานชื่น<SEP>ร้านบ้านใบเขียว"
+  },
+  "ร้านบ้านใบเขียว<SEP>แพรเซี่ยงไฮ้": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "ร้านบ้านใบเขียว<SEP>แพรเซี่ยงไฮ้"
+  },
+  "ร้านบ้านใบเขียว<SEP>เบโกเนียดอก": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "ร้านบ้านใบเขียว<SEP>เบโกเนียดอก"
+  },
+  "คริปแทนตัส<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "คริปแทนตัส<SEP>ร้านบ้านใบเขียว"
+  },
+  "ทิลแลนเซีย<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "ทิลแลนเซีย<SEP>ร้านบ้านใบเขียว"
+  },
+  "กะเพรา<SEP>ชุดผักสวนครัว 3 ชนิด": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-017"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "กะเพรา<SEP>ชุดผักสวนครัว 3 ชนิด"
+  },
+  "ชุดผักสวนครัว 3 ชนิด<SEP>โหระพา": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-017"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "ชุดผักสวนครัว 3 ชนิด<SEP>โหระพา"
+  },
+  "ชุดผักสวนครัว 3 ชนิด<SEP>สะระแหน่": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-017"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "ชุดผักสวนครัว 3 ชนิด<SEP>สะระแหน่"
+  },
+  "Kentia Palm<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-018",
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 2,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Kentia Palm<SEP>ร้านบ้านใบเขียว"
+  },
+  "Fiddle Leaf Fig<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-018",
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 2,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Fiddle Leaf Fig<SEP>ร้านบ้านใบเขียว"
+  },
+  "Poinsettia<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-018"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Poinsettia<SEP>ร้านบ้านใบเขียว"
+  },
+  "Venus Flytrap<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-018"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Venus Flytrap<SEP>ร้านบ้านใบเขียว"
+  },
+  "Philodendron Selloum<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Philodendron Selloum<SEP>ร้านบ้านใบเขียว"
+  },
+  "Bamboo Palm<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Bamboo Palm<SEP>ร้านบ้านใบเขียว"
+  },
+  "Areca Palm<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Areca Palm<SEP>ร้านบ้านใบเขียว"
+  },
+  "Weeping Fig<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Weeping Fig<SEP>ร้านบ้านใบเขียว"
+  },
+  "White Bird of Paradise<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "White Bird of Paradise<SEP>ร้านบ้านใบเขียว"
+  },
+  "Dendrobium Orchid<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Dendrobium Orchid<SEP>ร้านบ้านใบเขียว"
+  },
+  "Vanda Orchid<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Vanda Orchid<SEP>ร้านบ้านใบเขียว"
+  },
+  "Dancing Lady Orchid<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Dancing Lady Orchid<SEP>ร้านบ้านใบเขียว"
+  },
+  "Cattleya Orchid<SEP>ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1792162419,
+    "update_time": 1792162419,
+    "_id": "Cattleya Orchid<SEP>ร้านบ้านใบเขียว"
+  }
+}

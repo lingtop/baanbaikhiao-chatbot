@@ -10,7 +10,7 @@ __pycache__/
 # ข้อมูลที่ระบบสร้างเอง
 # โมเดล embedding (559 MB) โหลดใหม่ด้วย scripts/download_model.py — คลังที่ index แล้ว (rag/storage/lightrag) ขึ้น git เพื่อใช้ตอน deploy
 rag/storage/bge-m3/
-rag/index.log
+rag/*.log
 eval/results/
 logs/
 

@@ -133,11 +133,14 @@ uv run python scripts/check_keys.py     # ทดสอบ API key และช�
 
 | เรื่อง | ในเครื่อง | บน Render (free 512 MB) |
 |---|---|---|
-| Embedding ตอนค้น | bge-m3 ONNX ในเครื่อง (~1.2 GB RAM) | bge-m3 ตัวเดียวกันผ่าน Hugging Face Inference API (`EMBEDDING_PROVIDER=hf`) |
-| คลังความรู้ | `rag/storage/lightrag` | ไฟล์เดียวกัน (อยู่ใน git) ไม่ต้อง index ใหม่ |
-| ค่าลับ | `.env`, `rag/.env` | Environment ของ Render: `LLM_API_KEY`, `GROQ_API_KEY`, `HF_TOKEN` |
+| Embedding | bge-m3 ONNX ในเครื่อง (~1.2 GB RAM) | gemini-embedding-001 ผ่าน API 1024 มิติ (`EMBEDDING_PROVIDER=gemini`) |
+| คลังความรู้ | `rag/storage/lightrag` | `rag/storage/lightrag_gemini` (graph เดียวกัน ต่างแค่เวกเตอร์ · อยู่ใน git) |
+| ค่าลับ | `.env`, `rag/.env` | Environment ของ Render: `LLM_API_KEY`, `GROQ_API_KEY` |
 
-ขั้นตอน: push ขึ้น GitHub → Render → **New + → Blueprint** → เลือก repo (อ่าน [render.yaml](render.yaml)) → ใส่ค่าลับ 3 ตัว → Deploy
+ขั้นตอน: push ขึ้น GitHub → Render → **New + → Blueprint** → เลือก repo (อ่าน [render.yaml](render.yaml)) → ใส่ค่าลับ 2 ตัว → Deploy
+
+สร้างคลังสำหรับ deploy ใหม่เมื่อแก้คลังความรู้ (จากโฟลเดอร์ rag/):
+`$env:EMBEDDING_PROVIDER='gemini'; $env:WORKING_DIR='./storage/lightrag_gemini'; uv run python -m scripts.index_kb --reset`
 
 ข้อจำกัด free tier: ไม่มีคนใช้ 15 นาทีจะหลับ เปิดครั้งแรกรอ ~1 นาที · ประวัติแชทและ cache หายเมื่อรีสตาร์ต (สัปดาห์ 10: filesystem ชั่วคราว)
 

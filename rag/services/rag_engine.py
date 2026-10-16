@@ -118,7 +118,7 @@ async def make_rag(max_async: int = 1) -> LightRAG:
         llm_model_name=LLM_MODEL,
         llm_model_max_async=max_async,
         embedding_func=EmbeddingFunc(embedding_dim=local_embed.DIM, func=embed_func, max_token_size=local_embed.MAX_TOKENS,
-                                     model_name=f"local:{local_embed.REPO}"),
+                                     model_name=local_embed.GEMINI_MODEL if local_embed.PROVIDER == "gemini" else f"local:{local_embed.REPO}"),
         embedding_batch_num=16,
         embedding_func_max_async=1,
         default_embedding_timeout=300,
