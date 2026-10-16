@@ -369,7 +369,7 @@ def build():
     label_line(doc, "ชื่อโครงงาน", "บ้านใบเขียว AI — แชทบอทตอบลูกค้าแทนร้านต้นไม้บ้านใบเขียว")
     label_line(doc, "รูปแบบงาน", "งานเดี่ยว")
     label_line(doc, "ผู้พัฒนา", "[ชื่อ-สกุล] (รหัสนักศึกษา [รหัสนักศึกษา])")
-    label_line(doc, "Source code", "[ใส่ลิงก์ GitHub repository]")
+    label_line(doc, "Source code", "https://github.com/lingtop/baanbaikhiao-chatbot")
     label_line(doc, "การใช้ AI ช่วยพัฒนา", "ใช้ Claude Code ช่วยเขียนโค้ด จัดทำข้อมูลจำลอง และร่างเอกสาร "
                "ผู้พัฒนาเป็นผู้กำหนดแนวทาง ตรวจสอบ และทดสอบทุกส่วน")
 
