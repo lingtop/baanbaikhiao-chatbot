@@ -370,6 +370,7 @@ def build():
     label_line(doc, "รูปแบบงาน", "งานเดี่ยว")
     label_line(doc, "ผู้พัฒนา", "[ชื่อ-สกุล] (รหัสนักศึกษา [รหัสนักศึกษา])")
     label_line(doc, "Source code", "https://github.com/lingtop/baanbaikhiao-chatbot")
+    label_line(doc, "ลิงก์ทดลองใช้", "https://baanbaikhiao.onrender.com (Docker บน Render free tier — ไม่มีผู้ใช้ 15 นาทีระบบจะพัก เปิดครั้งแรกรอประมาณ 1 นาที)")
     label_line(doc, "การใช้ AI ช่วยพัฒนา", "ใช้ Claude Code ช่วยเขียนโค้ด จัดทำข้อมูลจำลอง และร่างเอกสาร "
                "ผู้พัฒนาเป็นผู้กำหนดแนวทาง ตรวจสอบ และทดสอบทุกส่วน")
 
