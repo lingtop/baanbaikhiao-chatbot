@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="th">
+<head>
+<meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root { --ink:#1d2b22; --muted:#5b6b61; --line:#cfdcd2; --green:#1f5e3b; --leaf:#3e8e5a; --sage:#eef5ef; --red:#b5432b; --redbg:#fbecE8; }
+  * { box-sizing: border-box; margin: 0; }
+  body { width: 1100px; height: 1190px; padding: 34px 44px; background:#fff; color:var(--ink);
+         font-family:"IBM Plex Sans Thai","Leelawadee UI",sans-serif; }
+  h1 { font-size: 28px; color: var(--green); font-weight: 700; }
+  .sub { color: var(--muted); font-size: 15px; margin-top: 2px; }
+  .flow { position: relative; margin-top: 26px; }
+  .rail { position: absolute; left: 25px; top: 20px; bottom: 30px; width: 3px; background: var(--line); }
+  .step { position: relative; display: grid; grid-template-columns: 54px 560px 1fr; align-items: start; min-height: 112px; }
+  .num { width: 52px; height: 52px; border-radius: 50%; background: var(--green); color:#fff; font-weight:700;
+         font-size: 22px; display:flex; align-items:center; justify-content:center; z-index:1; border: 4px solid #fff; }
+  .num.opt { background: #fff; color: var(--green); border: 3px dashed var(--leaf); }
+  .card { border:1.5px solid var(--line); border-radius: 12px; padding: 11px 14px; background:#fff; margin-left: 14px; }
+  .card b { font-size: 17px; font-weight: 600; display:block; }
+  .card .who { font-size: 12px; font-weight:600; color: var(--leaf); letter-spacing:.03em; }
+  .card span { display:block; font-size: 14px; color: var(--muted); line-height: 1.5; }
+  .card code { font-family: Consolas, monospace; font-size: 13px; color: var(--ink); background: var(--sage); padding: 0 4px; border-radius: 4px; }
+  .ex { font-size: 13.5px; color: var(--green); margin-top: 4px; }
+  .branch { margin-left: 26px; margin-top: 14px; border: 1.5px solid #e8b9ab; background: var(--redbg); border-radius: 12px; padding: 10px 12px; position: relative; }
+  .branch::before { content: "unsafe →"; position: absolute; left: -82px; top: 12px; color: var(--red); font-weight: 600; font-size: 14px; }
+  .branch b { color: var(--red); font-size: 15px; display:block; }
+  .branch span { font-size: 13px; color: #6b4a41; line-height: 1.45; display:block; }
+  .note { margin-top: 10px; border-top: 1.5px solid var(--line); padding-top: 12px; font-size: 14px; color: var(--muted); line-height: 1.6; }
+</style>
+</head>
+<body>
+  <h1>บ้านใบเขียว AI — การไหลของข้อมูล 1 ข้อความ</h1>
+  <div class="sub">ตัวอย่าง: ลูกค้าส่งรูปต้นไม้ใบเหลือง พร้อมถาม "ใบเหลืองหลายใบ ต้องทำยังไงคะ" · ขั้นที่ 4 ทำเฉพาะเมื่อมีภาพแนบ</div>
+
+  <div class="flow">
+    <div class="rail"></div>
+
+    <div class="step"><div class="num">1</div>
+      <div class="card"><div class="who">BROWSER · index.html</div><b>ลูกค้าพิมพ์คำถามและแนบรูป</b>
+        <span>ปุ่มส่งถูกล็อกระหว่างรอ ป้องกันการส่งซ้ำ</span></div><div></div></div>
+
+    <div class="step"><div class="num">2</div>
+      <div class="card"><div class="who">chat.js → controllers/chat_controller.py</div><b>ส่งคำขอเข้า Chat API</b>
+        <span><code>POST /api/v1/chat/stream</code> · ตรวจชนิด/ขนาดไฟล์ (≤ 5 MB) · ความยาวข้อความ ≤ 1,000 ตัวอักษร · ดึงประวัติแชทจาก session</span></div><div></div></div>
+
+    <div class="step"><div class="num">3</div>
+      <div class="card"><div class="who">GUARD SERVICE :8001 · direction = input</div><b>ตรวจขาเข้า</b>
+        <span>Blocklist → Business Rules → Prompt Guard 2 → Safety Classifier (S1–S14)</span>
+        <div class="ex">ผล: safe</div></div>
+      <div class="branch"><b>ปฏิเสธทันที ไม่เรียก LLM</b><span>เช่น ขอส่วนลด 50% → BIZ_DISCOUNT<br>ขอที่อยู่ลูกค้าอื่น → BIZ_PRIVACY</span></div></div>
+
+    <div class="step"><div class="num opt">4</div>
+      <div class="card"><div class="who">services/vision_service.py · Gemini 3.1 Flash Lite</div><b>Vision วิเคราะห์ภาพ</b>
+        <span>ภาพ → Base64 data URL → <code>image_url</code> · ตอบกลับเป็น JSON</span>
+        <div class="ex">{"type": "plant_symptom", "seen": ["ใบล่างเหลือง", "ดินแฉะ", "น้ำขังจานรอง"]}</div></div><div></div></div>
+
+    <div class="step"><div class="num">5</div>
+      <div class="card"><div class="who">services/rag_service.py → RAG Server :9621</div><b>RAG ค้นคลังความรู้</b>
+        <span>ใช้คำถาม + สิ่งที่เห็นในภาพเป็น query · <code>mode: mix</code> · <code>only_need_context: true</code></span>
+        <div class="ex">ได้: คู่มือดูแล "ใบเหลือง + ดินแฉะ", "รากเน่า", สินค้าที่เกี่ยวข้อง</div></div><div></div></div>
+
+    <div class="step"><div class="num">6</div>
+      <div class="card"><div class="who">services/llm_service.py · Gemini 3.1 Flash Lite</div><b>Chat LLM เรียบเรียงคำตอบ</b>
+        <span>system prompt (กฎต้องทำ/ห้ามทำ) + context + ประวัติแชท · temperature 0.2</span>
+        <div class="ex">"น่าจะเกิดจากรดน้ำมากเกินไป หยุดรดน้ำจนดินแห้ง..."</div></div><div></div></div>
+
+    <div class="step"><div class="num">7</div>
+      <div class="card"><div class="who">GUARD SERVICE :8001 · direction = output</div><b>ตรวจขาออก</b>
+        <span>ราคาทุกตัวเลขต้องมีในคลังความรู้ · ไม่มีเบอร์/ที่อยู่ลูกค้า · ไม่สัญญาส่วนลด/คืนเงินนอกนโยบาย · Safety Classifier</span>
+        <div class="ex">ผล: safe</div></div>
+      <div class="branch"><b>แทนคำตอบด้วยข้อความปฏิเสธ</b><span>เช่น ราคาไม่ตรงคลังความรู้ → PRICE_NOT_IN_KB<br>แล้วแนะนำติดต่อแอดมิน</span></div></div>
+
+    <div class="step"><div class="num">8</div>
+      <div class="card"><div class="who">SSE → chat.js</div><b>ตอบกลับหน้าเว็บ</b>
+        <span>ส่ง event สถานะทีละขั้นระหว่างประมวลผล แล้วส่งคำตอบที่ผ่านการตรวจ · marked.js + DOMPurify แสดงผล · บันทึกประวัติเฉพาะคำตอบที่ผ่าน</span></div><div></div></div>
+  </div>
+
+  <div class="note">Guard / LightRAG / LLM เรียกไม่ได้ → ตอบ HTTP 503 พร้อมข้อความ error ภาษาไทย (fail-closed) · คำตอบจะถูกตรวจขาออกครบก่อนแสดง จึงรอคำตอบเต็มจาก LLM ก่อนส่งให้ผู้ใช้ ส่วนระหว่างรอ หน้าเว็บแสดงสถานะทีละขั้นแทน</div>
+</body>
+</html>

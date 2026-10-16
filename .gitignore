@@ -1,0 +1,18 @@
+# ค่าลับ — ห้าม commit
+.env
+rag/.env
+
+# Python / uv
+.venv/
+__pycache__/
+*.pyc
+
+# ข้อมูลที่ระบบสร้างเอง
+# โมเดล embedding (559 MB) โหลดใหม่ด้วย scripts/download_model.py — คลังที่ index แล้ว (rag/storage/lightrag) ขึ้น git เพื่อใช้ตอน deploy
+rag/storage/bge-m3/
+rag/index.log
+eval/results/
+logs/
+
+# ไฟล์ชั่วคราวของ Office
+~$*

@@ -1,0 +1,14 @@
+# Render Blueprint — New + → Blueprint → เลือก repo นี้ (หรือสร้าง Web Service แบบ Docker เองก็ได้)
+services:
+  - type: web
+    name: baanbaikhiao
+    runtime: docker
+    plan: free
+    healthCheckPath: /api/v1/health
+    envVars:
+      - key: LLM_API_KEY      # Google AI Studio
+        sync: false
+      - key: GROQ_API_KEY     # Groq
+        sync: false
+      - key: HF_TOKEN         # Hugging Face (embedding bge-m3 ตอนค้น)
+        sync: false

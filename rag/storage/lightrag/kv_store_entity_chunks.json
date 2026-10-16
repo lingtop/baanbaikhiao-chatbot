@@ -1,0 +1,3422 @@
+{
+  "Baan Bai Khiao Plant Shop": {
+    "chunk_ids": [
+      "kb-01_shop_info-chunk-000",
+      "kb-01_shop_info-chunk-001"
+    ],
+    "count": 2,
+    "create_time": 1791616284,
+    "update_time": 1791616284,
+    "_id": "Baan Bai Khiao Plant Shop"
+  },
+  "สถานีรถไฟฟ้าสวนสวย": {
+    "chunk_ids": [
+      "kb-01_shop_info-chunk-000",
+      "kb-08_faq-chunk-000"
+    ],
+    "count": 2,
+    "update_time": 1791616404,
+    "_id": "สถานีรถไฟฟ้าสวนสวย"
+  },
+  "LINE OA": {
+    "chunk_ids": [
+      "kb-01_shop_info-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791616284,
+    "update_time": 1791616284,
+    "_id": "LINE OA"
+  },
+  "แชทบอท": {
+    "chunk_ids": [
+      "kb-01_shop_info-chunk-000",
+      "kb-04_services-chunk-002",
+      "kb-05_shipping_payment-chunk-001",
+      "kb-05_shipping_payment-chunk-004",
+      "kb-06_policies_promotions-chunk-002",
+      "kb-08_faq-chunk-000",
+      "kb-08_faq-chunk-002",
+      "kb-08_faq-chunk-003"
+    ],
+    "count": 8,
+    "update_time": 1791616399,
+    "_id": "แชทบอท"
+  },
+  "แอดมิน": {
+    "chunk_ids": [
+      "kb-01_shop_info-chunk-000",
+      "kb-01_shop_info-chunk-001",
+      "kb-04_services-chunk-002",
+      "kb-05_shipping_payment-chunk-001",
+      "kb-05_shipping_payment-chunk-004",
+      "kb-06_policies_promotions-chunk-002",
+      "kb-08_faq-chunk-000",
+      "kb-08_faq-chunk-003"
+    ],
+    "count": 8,
+    "update_time": 1791616399,
+    "_id": "แอดมิน"
+  },
+  "LINE OA @baanbaikhiao": {
+    "chunk_ids": [
+      "kb-01_shop_info-chunk-001",
+      "kb-05_shipping_payment-chunk-001"
+    ],
+    "count": 2,
+    "update_time": 1791616376,
+    "_id": "LINE OA @baanbaikhiao"
+  },
+  "ร้านบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-000",
+      "kb-02_plants-chunk-009",
+      "kb-02_plants-chunk-010",
+      "kb-02_plants-chunk-011",
+      "kb-02_plants-chunk-012",
+      "kb-02_plants-chunk-023",
+      "kb-02_plants-chunk-031",
+      "kb-02_plants-chunk-034",
+      "kb-02_plants-chunk-039",
+      "kb-02_plants-chunk-040",
+      "kb-02_plants-chunk-042",
+      "kb-02_plants-chunk-046",
+      "kb-02_plants-chunk-048",
+      "kb-02_plants-chunk-050",
+      "kb-02_plants-chunk-052",
+      "kb-02_plants-chunk-054",
+      "kb-09_plant_recommendations-chunk-001",
+      "kb-09_plant_recommendations-chunk-003",
+      "kb-09_plant_recommendations-chunk-005",
+      "kb-09_plant_recommendations-chunk-007",
+      "kb-09_plant_recommendations-chunk-008",
+      "kb-09_plant_recommendations-chunk-009",
+      "kb-09_plant_recommendations-chunk-011",
+      "kb-09_plant_recommendations-chunk-015",
+      "kb-09_plant_recommendations-chunk-016",
+      "kb-09_plant_recommendations-chunk-018",
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 27,
+    "update_time": 1791616425,
+    "_id": "ร้านบ้านใบเขียว"
+  },
+  "มอนสเตอร่า เดลิซิโอซ่า": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "มอนสเตอร่า เดลิซิโอซ่า"
+  },
+  "ไม้ใบในร่ม": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-000",
+      "kb-02_plants-chunk-011"
+    ],
+    "count": 2,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "ไม้ใบในร่ม"
+  },
+  "data/plants.csv": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "data/plants.csv"
+  },
+  "scripts/build_plants_kb.py": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "scripts/build_plants_kb.py"
+  },
+  "บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-001",
+      "kb-02_plants-chunk-002",
+      "kb-02_plants-chunk-004",
+      "kb-02_plants-chunk-005",
+      "kb-02_plants-chunk-007",
+      "kb-02_plants-chunk-008",
+      "kb-02_plants-chunk-014",
+      "kb-02_plants-chunk-015",
+      "kb-02_plants-chunk-016",
+      "kb-02_plants-chunk-017",
+      "kb-02_plants-chunk-018",
+      "kb-02_plants-chunk-020",
+      "kb-02_plants-chunk-021",
+      "kb-02_plants-chunk-022",
+      "kb-02_plants-chunk-025",
+      "kb-02_plants-chunk-026",
+      "kb-02_plants-chunk-027",
+      "kb-02_plants-chunk-028",
+      "kb-02_plants-chunk-029",
+      "kb-02_plants-chunk-030",
+      "kb-02_plants-chunk-032",
+      "kb-02_plants-chunk-033",
+      "kb-02_plants-chunk-035",
+      "kb-02_plants-chunk-036",
+      "kb-02_plants-chunk-037",
+      "kb-02_plants-chunk-038",
+      "kb-02_plants-chunk-041",
+      "kb-02_plants-chunk-043",
+      "kb-02_plants-chunk-044",
+      "kb-02_plants-chunk-045",
+      "kb-02_plants-chunk-047",
+      "kb-02_plants-chunk-049",
+      "kb-02_plants-chunk-051",
+      "kb-02_plants-chunk-053",
+      "kb-09_plant_recommendations-chunk-000",
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 36,
+    "update_time": 1791616425,
+    "_id": "บ้านใบเขียว"
+  },
+  "Philodendron Birkin": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-001",
+      "kb-09_plant_recommendations-chunk-011"
+    ],
+    "count": 2,
+    "update_time": 1791616425,
+    "_id": "Philodendron Birkin"
+  },
+  "Philodendron Xanadu": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Philodendron Xanadu"
+  },
+  "Philodendron Selloum": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-001",
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 2,
+    "update_time": 1791616425,
+    "_id": "Philodendron Selloum"
+  },
+  "Philodendron Rojo Congo": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Philodendron Rojo Congo"
+  },
+  "Aglaonema Siam Aurora": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-002",
+      "kb-09_plant_recommendations-chunk-003",
+      "kb-09_plant_recommendations-chunk-005",
+      "kb-09_plant_recommendations-chunk-008"
+    ],
+    "count": 4,
+    "update_time": 1791616425,
+    "_id": "Aglaonema Siam Aurora"
+  },
+  "Aglaonema Silver Bay": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-002",
+      "kb-09_plant_recommendations-chunk-001",
+      "kb-09_plant_recommendations-chunk-003",
+      "kb-09_plant_recommendations-chunk-005"
+    ],
+    "count": 4,
+    "update_time": 1791616425,
+    "_id": "Aglaonema Silver Bay"
+  },
+  "ต้นไม้": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-003",
+      "kb-05_shipping_payment-chunk-003",
+      "kb-06_policies_promotions-chunk-000",
+      "kb-06_policies_promotions-chunk-001",
+      "kb-08_faq-chunk-003"
+    ],
+    "count": 5,
+    "update_time": 1791616404,
+    "_id": "ต้นไม้"
+  },
+  "ออฟฟิศ": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-003",
+      "kb-02_plants-chunk-024"
+    ],
+    "count": 2,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "ออฟฟิศ"
+  },
+  "ห้องแอร์": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "ห้องแอร์"
+  },
+  "เขียวหมื่นปี": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-004",
+      "kb-08_faq-chunk-000"
+    ],
+    "count": 2,
+    "update_time": 1791616404,
+    "_id": "เขียวหมื่นปี"
+  },
+  "สาวน้อยประแป้ง": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "สาวน้อยประแป้ง"
+  },
+  "เงินไหลมา": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-004",
+      "kb-07_plant_care_guide-chunk-003",
+      "kb-08_faq-chunk-001"
+    ],
+    "count": 3,
+    "update_time": 1791616404,
+    "_id": "เงินไหลมา"
+  },
+  "เงินไหลมา ชมพู": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "เงินไหลมา ชมพู"
+  },
+  "กวักมรกต": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-005",
+      "kb-08_faq-chunk-001"
+    ],
+    "count": 2,
+    "update_time": 1791616404,
+    "_id": "กวักมรกต"
+  },
+  "กวักมรกตดำ": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "กวักมรกตดำ"
+  },
+  "Zamiifolia 'Raven'": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Zamiifolia 'Raven'"
+  },
+  "ไม้มงคล": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-006",
+      "kb-08_faq-chunk-001"
+    ],
+    "count": 2,
+    "update_time": 1791616409,
+    "_id": "ไม้มงคล"
+  },
+  "ของขวัญ": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-006",
+      "kb-08_faq-chunk-001"
+    ],
+    "count": 2,
+    "update_time": 1791616409,
+    "_id": "ของขวัญ"
+  },
+  "ลิ้นมังกร": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-007",
+      "kb-08_faq-chunk-000"
+    ],
+    "count": 2,
+    "update_time": 1791616404,
+    "_id": "ลิ้นมังกร"
+  },
+  "ลิ้นมังกรขอบทอง": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "ลิ้นมังกรขอบทอง"
+  },
+  "ลิ้นมังกรทรงกระบอก": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "ลิ้นมังกรทรงกระบอก"
+  },
+  "ลิ้นมังกรแคระ": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-008",
+      "kb-09_plant_recommendations-chunk-016"
+    ],
+    "count": 2,
+    "update_time": 1791616425,
+    "_id": "ลิ้นมังกรแคระ"
+  },
+  "ยางอินเดีย": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "ยางอินเดีย"
+  },
+  "ยางอินเดียด่าง": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "ยางอินเดียด่าง"
+  },
+  "คล้านกยูง": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-009",
+      "kb-07_plant_care_guide-chunk-001",
+      "kb-09_plant_recommendations-chunk-007"
+    ],
+    "count": 3,
+    "update_time": 1791616425,
+    "_id": "คล้านกยูง"
+  },
+  "คล้าแรทเทิลสเนค": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "คล้าแรทเทิลสเนค"
+  },
+  "คล้าออร์บิโฟเลีย": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-010",
+      "kb-09_plant_recommendations-chunk-007"
+    ],
+    "count": 2,
+    "update_time": 1791616425,
+    "_id": "คล้าออร์บิโฟเลีย"
+  },
+  "Goeppertia orbifolia": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Goeppertia orbifolia"
+  },
+  "คล้าสวดมนต์": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "คล้าสวดมนต์"
+  },
+  "Maranta leuconeura": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Maranta leuconeura"
+  },
+  "เปปเปอร์โรเมีย ใบกลม": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "เปปเปอร์โรเมีย ใบกลม"
+  },
+  "Peperomia obtusifolia": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Peperomia obtusifolia"
+  },
+  "Peperomia Argyreia": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Peperomia Argyreia"
+  },
+  "Pilea Peperomioides": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Pilea Peperomioides"
+  },
+  "Fittonia Albivenis": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Fittonia Albivenis"
+  },
+  "Alocasia Polly": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Alocasia Polly"
+  },
+  "Alocasia Zebrina": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-012",
+      "kb-09_plant_recommendations-chunk-018"
+    ],
+    "count": 2,
+    "update_time": 1791616425,
+    "_id": "Alocasia Zebrina"
+  },
+  "Giant Taro": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-012",
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 2,
+    "update_time": 1791616425,
+    "_id": "Giant Taro"
+  },
+  "Asia Macrorrhizos": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Asia Macrorrhizos"
+  },
+  "ระเบียง": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-013",
+      "kb-02_plants-chunk-019",
+      "kb-02_plants-chunk-031"
+    ],
+    "count": 3,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "ระเบียง"
+  },
+  "ห้อง": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "ห้อง"
+  },
+  "Caladium": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Caladium"
+  },
+  "Begonia maculata": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Begonia maculata"
+  },
+  "Codiaeum variegatum": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Codiaeum variegatum"
+  },
+  "ไผ่กวนอิม": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-015",
+      "kb-08_faq-chunk-001"
+    ],
+    "count": 2,
+    "update_time": 1791616404,
+    "_id": "ไผ่กวนอิม"
+  },
+  "พลูด่าง": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-015",
+      "kb-07_plant_care_guide-chunk-003",
+      "kb-08_faq-chunk-000",
+      "kb-09_plant_recommendations-chunk-015"
+    ],
+    "count": 4,
+    "update_time": 1791616425,
+    "_id": "พลูด่าง"
+  },
+  "พลูหินอ่อน": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "พลูหินอ่อน"
+  },
+  "พลูเอ็นจอย": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "พลูเอ็นจอย"
+  },
+  "พลูแนวซิลเวอร์": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "พลูแนวซิลเวอร์"
+  },
+  "Monstera Adansonii": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-017"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Monstera Adansonii"
+  },
+  "Rhaphidophora Tetrasperma": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-017"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Rhaphidophora Tetrasperma"
+  },
+  "Philodendron Hederaceum": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-017"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Philodendron Hederaceum"
+  },
+  "Philodendron Micans": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-018"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Philodendron Micans"
+  },
+  "English Ivy": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-018"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "English Ivy"
+  },
+  "String Of Pearls": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-018"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "String Of Pearls"
+  },
+  "ไม้อวบน้ำ": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-019",
+      "kb-02_plants-chunk-031",
+      "kb-02_plants-chunk-033",
+      "kb-07_plant_care_guide-chunk-002",
+      "kb-07_plant_care_guide-chunk-003"
+    ],
+    "count": 5,
+    "update_time": 1791616390,
+    "_id": "ไม้อวบน้ำ"
+  },
+  "สร้อยหัวใจ": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-020"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "สร้อยหัวใจ"
+  },
+  "สร้อยกล้วย": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-020"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "สร้อยกล้วย"
+  },
+  "ก้ามปูหลุด": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-020"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "ก้ามปูหลุด"
+  },
+  "โฮย่าหัวใจ": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-021",
+      "kb-08_faq-chunk-001",
+      "kb-09_plant_recommendations-chunk-016"
+    ],
+    "count": 3,
+    "update_time": 1791616425,
+    "_id": "โฮย่าหัวใจ"
+  },
+  "โฮย่า คาร์โนซ่า": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-021"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "โฮย่า คาร์โนซ่า"
+  },
+  "Peperomia Hope": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-022",
+      "kb-09_plant_recommendations-chunk-011"
+    ],
+    "count": 2,
+    "update_time": 1791616425,
+    "_id": "Peperomia Hope"
+  },
+  "Spider Plant": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-022",
+      "kb-09_plant_recommendations-chunk-001",
+      "kb-09_plant_recommendations-chunk-003",
+      "kb-09_plant_recommendations-chunk-004",
+      "kb-09_plant_recommendations-chunk-005",
+      "kb-09_plant_recommendations-chunk-006",
+      "kb-09_plant_recommendations-chunk-008"
+    ],
+    "count": 7,
+    "update_time": 1791616425,
+    "_id": "Spider Plant"
+  },
+  "ปาล์มไผ่": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-023",
+      "kb-08_faq-chunk-000",
+      "kb-09_plant_recommendations-chunk-015"
+    ],
+    "count": 3,
+    "update_time": 1791616425,
+    "_id": "ปาล์มไผ่"
+  },
+  "หมากเหลือง": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-023",
+      "kb-09_plant_recommendations-chunk-015"
+    ],
+    "count": 2,
+    "update_time": 1791616425,
+    "_id": "หมากเหลือง"
+  },
+  "ปาล์มเอลิแกนส์": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-023"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "ปาล์มเอลิแกนส์"
+  },
+  "ปาล์มและไม้ต้นในร่ม": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-023"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "ปาล์มและไม้ต้นในร่ม"
+  },
+  "ปาล์มขนาดเล็ก": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-024"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "ปาล์มขนาดเล็ก"
+  },
+  "โต๊ะทำงาน": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-024",
+      "kb-02_plants-chunk-030"
+    ],
+    "count": 2,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "โต๊ะทำงาน"
+  },
+  "จั๋ง": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-025",
+      "kb-08_faq-chunk-001"
+    ],
+    "count": 2,
+    "update_time": 1791616404,
+    "_id": "จั๋ง"
+  },
+  "ปาล์มเคนเทีย": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-025"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "ปาล์มเคนเทีย"
+  },
+  "ต้นหางม้า": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-025"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "ต้นหางม้า"
+  },
+  "ปรงญี่ปุ่น": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-026",
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 2,
+    "update_time": 1791616425,
+    "_id": "ปรงญี่ปุ่น"
+  },
+  "ไทรใบสัก": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-026"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "ไทรใบสัก"
+  },
+  "ไทรใบสักแคระ": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-027"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "ไทรใบสักแคระ"
+  },
+  "ไทรเบญจมิน": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-027"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "ไทรเบญจมิน"
+  },
+  "วาสนา": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-027",
+      "kb-08_faq-chunk-001"
+    ],
+    "count": 2,
+    "update_time": 1791616404,
+    "_id": "วาสนา"
+  },
+  "Dracaena Marginata": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-028"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Dracaena Marginata"
+  },
+  "Schefflera Arboricola": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-028"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Schefflera Arboricola"
+  },
+  "Strelitzia Nicolai": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-028"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Strelitzia Nicolai"
+  },
+  "มะกอกฝรั่ง": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-029",
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 2,
+    "update_time": 1791616425,
+    "_id": "มะกอกฝรั่ง"
+  },
+  "กุหลาบหิน": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-029",
+      "kb-09_plant_recommendations-chunk-013",
+      "kb-09_plant_recommendations-chunk-016"
+    ],
+    "count": 3,
+    "update_time": 1791616425,
+    "_id": "กุหลาบหิน"
+  },
+  "Zebra Haworthia": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-030",
+      "kb-09_plant_recommendations-chunk-001",
+      "kb-09_plant_recommendations-chunk-002",
+      "kb-09_plant_recommendations-chunk-011",
+      "kb-09_plant_recommendations-chunk-012"
+    ],
+    "count": 5,
+    "update_time": 1791616425,
+    "_id": "Zebra Haworthia"
+  },
+  "Window Haworthia": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-030",
+      "kb-09_plant_recommendations-chunk-011",
+      "kb-09_plant_recommendations-chunk-012"
+    ],
+    "count": 3,
+    "update_time": 1791616425,
+    "_id": "Window Haworthia"
+  },
+  "Jade Plant": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-030",
+      "kb-09_plant_recommendations-chunk-008",
+      "kb-09_plant_recommendations-chunk-009"
+    ],
+    "count": 3,
+    "update_time": 1791616425,
+    "_id": "Jade Plant"
+  },
+  "อากาเว่ (Century Plant)": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "อากาเว่ (Century Plant)"
+  },
+  "Agave americana": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Agave americana"
+  },
+  "เซดั้ม หางลา (Burro's Tail)": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "เซดั้ม หางลา (Burro's Tail)"
+  },
+  "Sedum morganianum": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Sedum morganianum"
+  },
+  "ว่านหางจระเข้ (Aloe Vera)": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "ว่านหางจระเข้ (Aloe Vera)"
+  },
+  "Aloe vera": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Aloe vera"
+  },
+  "Lithops spp.": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-032"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Lithops spp."
+  },
+  "Graptopetalum paraguayense": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-032"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Graptopetalum paraguayense"
+  },
+  "Euphorbia tirucalli": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-032"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Euphorbia tirucalli"
+  },
+  "โป๊ยเซียน": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-033",
+      "kb-08_faq-chunk-001",
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 3,
+    "update_time": 1791616425,
+    "_id": "โป๊ยเซียน"
+  },
+  "ชวนชม": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-033",
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 2,
+    "update_time": 1791616425,
+    "_id": "ชวนชม"
+  },
+  "แคคตัส คละสายพันธุ์ (Assorted Cactus)": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-034"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "แคคตัส คละสายพันธุ์ (Assorted Cactus)"
+  },
+  "Cactaceae": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-034"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Cactaceae"
+  },
+  "ยิมโนคาไลเซียม (Gymnocalycium)": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-034"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "ยิมโนคาไลเซียม (Gymnocalycium)"
+  },
+  "Gymnocalycium mihanovichii": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-034"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Gymnocalycium mihanovichii"
+  },
+  "แคคตัส": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-034",
+      "kb-02_plants-chunk-035",
+      "kb-02_plants-chunk-036",
+      "kb-02_plants-chunk-037",
+      "kb-07_plant_care_guide-chunk-002",
+      "kb-07_plant_care_guide-chunk-003"
+    ],
+    "count": 6,
+    "update_time": 1791616390,
+    "_id": "แคคตัส"
+  },
+  "Gymnocalycium Mihanovichii": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-035"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Gymnocalycium Mihanovichii"
+  },
+  "Mammillaria Spp.": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-035"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Mammillaria Spp."
+  },
+  "Astrophytum Asterias": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-035"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Astrophytum Asterias"
+  },
+  "ถังทอง": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-036",
+      "kb-08_faq-chunk-001",
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 3,
+    "update_time": 1791616425,
+    "_id": "ถังทอง"
+  },
+  "โอพันเทีย หูกระต่าย": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-036",
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 2,
+    "update_time": 1791616425,
+    "_id": "โอพันเทีย หูกระต่าย"
+  },
+  "ซีรีอุส": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-036",
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 2,
+    "update_time": 1791616425,
+    "_id": "ซีรีอุส"
+  },
+  "Echinopsis": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-037"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Echinopsis"
+  },
+  "Christmas Cactus": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-037",
+      "kb-09_plant_recommendations-chunk-009"
+    ],
+    "count": 2,
+    "update_time": 1791616425,
+    "_id": "Christmas Cactus"
+  },
+  "Peace Lily": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-037",
+      "kb-09_plant_recommendations-chunk-004",
+      "kb-09_plant_recommendations-chunk-006"
+    ],
+    "count": 3,
+    "update_time": 1791616425,
+    "_id": "Peace Lily"
+  },
+  "ไม้ดอก": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-037"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "ไม้ดอก"
+  },
+  "Anthurium Red": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-038",
+      "kb-09_plant_recommendations-chunk-008",
+      "kb-09_plant_recommendations-chunk-009"
+    ],
+    "count": 3,
+    "update_time": 1791616425,
+    "_id": "Anthurium Red"
+  },
+  "Anthurium Pink": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-038",
+      "kb-09_plant_recommendations-chunk-009"
+    ],
+    "count": 2,
+    "update_time": 1791616425,
+    "_id": "Anthurium Pink"
+  },
+  "Kalanchoe": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-038",
+      "kb-09_plant_recommendations-chunk-009",
+      "kb-09_plant_recommendations-chunk-010",
+      "kb-09_plant_recommendations-chunk-014"
+    ],
+    "count": 4,
+    "update_time": 1791616425,
+    "_id": "Kalanchoe"
+  },
+  "African Violet": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-039",
+      "kb-09_plant_recommendations-chunk-009",
+      "kb-09_plant_recommendations-chunk-010",
+      "kb-09_plant_recommendations-chunk-011",
+      "kb-09_plant_recommendations-chunk-012"
+    ],
+    "count": 5,
+    "update_time": 1791616425,
+    "_id": "African Violet"
+  },
+  "Arabian Jasmine": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-039",
+      "kb-09_plant_recommendations-chunk-014"
+    ],
+    "count": 2,
+    "update_time": 1791616425,
+    "_id": "Arabian Jasmine"
+  },
+  "Gardenia": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-039",
+      "kb-09_plant_recommendations-chunk-014"
+    ],
+    "count": 2,
+    "update_time": 1791616425,
+    "_id": "Gardenia"
+  },
+  "เฟื่องฟ้า": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-040",
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 2,
+    "update_time": 1791616425,
+    "_id": "เฟื่องฟ้า"
+  },
+  "กุหลาบมินิ": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-040",
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 2,
+    "update_time": 1791616425,
+    "_id": "กุหลาบมินิ"
+  },
+  "พิทูเนีย": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-040",
+      "kb-09_plant_recommendations-chunk-016"
+    ],
+    "count": 2,
+    "update_time": 1791616425,
+    "_id": "พิทูเนีย"
+  },
+  "บานชื่น": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-041",
+      "kb-09_plant_recommendations-chunk-016"
+    ],
+    "count": 2,
+    "update_time": 1791616425,
+    "_id": "บานชื่น"
+  },
+  "แพรเซี่ยงไฮ้": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-041",
+      "kb-09_plant_recommendations-chunk-016",
+      "kb-09_plant_recommendations-chunk-017"
+    ],
+    "count": 3,
+    "update_time": 1791616425,
+    "_id": "แพรเซี่ยงไฮ้"
+  },
+  "เบโกเนียดอก": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-041",
+      "kb-09_plant_recommendations-chunk-016",
+      "kb-09_plant_recommendations-chunk-017"
+    ],
+    "count": 3,
+    "update_time": 1791616425,
+    "_id": "เบโกเนียดอก"
+  },
+  "ดอกคริสต์มาส": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-042"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "ดอกคริสต์มาส"
+  },
+  "กล้วยไม้ฟาแลนน็อปซิส": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-042",
+      "kb-08_faq-chunk-001"
+    ],
+    "count": 2,
+    "update_time": 1791616404,
+    "_id": "กล้วยไม้ฟาแลนน็อปซิส"
+  },
+  "Dendrobium Orchid": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-043",
+      "kb-09_plant_recommendations-chunk-010",
+      "kb-09_plant_recommendations-chunk-014",
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 4,
+    "update_time": 1791616425,
+    "_id": "Dendrobium Orchid"
+  },
+  "Vanda Orchid": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-043",
+      "kb-09_plant_recommendations-chunk-014",
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 3,
+    "update_time": 1791616425,
+    "_id": "Vanda Orchid"
+  },
+  "กล้วยไม้": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-043"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "กล้วยไม้"
+  },
+  "กล้วยไม้ออนซิเดียม": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-044"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "กล้วยไม้ออนซิเดียม"
+  },
+  "กล้วยไม้แคทลียา": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-044",
+      "kb-09_plant_recommendations-chunk-007"
+    ],
+    "count": 2,
+    "update_time": 1791616425,
+    "_id": "กล้วยไม้แคทลียา"
+  },
+  "Guzmania Bromeliad": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-045",
+      "kb-09_plant_recommendations-chunk-010"
+    ],
+    "count": 2,
+    "update_time": 1791616425,
+    "_id": "Guzmania Bromeliad"
+  },
+  "Urn Plant": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-045"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Urn Plant"
+  },
+  "สับปะรดสีและทิลแลนเซีย": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-045",
+      "kb-02_plants-chunk-046",
+      "kb-02_plants-chunk-047"
+    ],
+    "count": 3,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "สับปะรดสีและทิลแลนเซีย"
+  },
+  "Neoregelia": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-046",
+      "kb-09_plant_recommendations-chunk-014"
+    ],
+    "count": 2,
+    "update_time": 1791616425,
+    "_id": "Neoregelia"
+  },
+  "Cryptanthus Bivittatus": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-046"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Cryptanthus Bivittatus"
+  },
+  "Tillandsia spp.": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-047"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Tillandsia spp."
+  },
+  "Tillandsia usneoides": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-047"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Tillandsia usneoides"
+  },
+  "Boston Fern": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-048"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Boston Fern"
+  },
+  "Bird's Nest Fern": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-048",
+      "kb-09_plant_recommendations-chunk-004",
+      "kb-09_plant_recommendations-chunk-006"
+    ],
+    "count": 3,
+    "update_time": 1791616425,
+    "_id": "Bird's Nest Fern"
+  },
+  "Maidenhair Fern": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-048"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Maidenhair Fern"
+  },
+  "Staghorn Fern": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-049"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Staghorn Fern"
+  },
+  "Rabbit's Foot Fern": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-049"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Rabbit's Foot Fern"
+  },
+  "Asparagus Fern": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-049"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "Asparagus Fern"
+  },
+  "กาบหอยแครง": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-050"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "กาบหอยแครง"
+  },
+  "หม้อข้าวหม้อแกงลิง": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-050"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "หม้อข้าวหม้อแกงลิง"
+  },
+  "หยาดน้ำค้าง": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-051",
+      "kb-09_plant_recommendations-chunk-007"
+    ],
+    "count": 2,
+    "update_time": 1791616425,
+    "_id": "หยาดน้ำค้าง"
+  },
+  "ซาราซีเนีย": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-051",
+      "kb-09_plant_recommendations-chunk-007"
+    ],
+    "count": 2,
+    "update_time": 1791616425,
+    "_id": "ซาราซีเนีย"
+  },
+  "ไม้กินแมลง": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-051"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "ไม้กินแมลง"
+  },
+  "กะเพรา": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-052",
+      "kb-09_plant_recommendations-chunk-017"
+    ],
+    "count": 2,
+    "update_time": 1791616425,
+    "_id": "กะเพรา"
+  },
+  "โหระพา": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-052",
+      "kb-09_plant_recommendations-chunk-017"
+    ],
+    "count": 2,
+    "update_time": 1791616425,
+    "_id": "โหระพา"
+  },
+  "สะระแหน่": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-052",
+      "kb-09_plant_recommendations-chunk-017"
+    ],
+    "count": 2,
+    "update_time": 1791616425,
+    "_id": "สะระแหน่"
+  },
+  "ตะไคร้": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-053",
+      "kb-09_plant_recommendations-chunk-017"
+    ],
+    "count": 2,
+    "update_time": 1791616425,
+    "_id": "ตะไคร้"
+  },
+  "โรสแมรี่": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-053"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "โรสแมรี่"
+  },
+  "ลาเวนเดอร์": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-053",
+      "kb-09_plant_recommendations-chunk-007"
+    ],
+    "count": 2,
+    "update_time": 1791616425,
+    "_id": "ลาเวนเดอร์"
+  },
+  "ผักสวนครัวและสมุนไพร": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-053"
+    ],
+    "count": 1,
+    "create_time": 1791616288,
+    "update_time": 1791616288,
+    "_id": "ผักสวนครัวและสมุนไพร"
+  },
+  "พริกขี้หนู": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-054",
+      "kb-09_plant_recommendations-chunk-017"
+    ],
+    "count": 2,
+    "update_time": 1791616425,
+    "_id": "พริกขี้หนู"
+  },
+  "เตยหอม": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-054",
+      "kb-09_plant_recommendations-chunk-015",
+      "kb-09_plant_recommendations-chunk-017"
+    ],
+    "count": 3,
+    "update_time": 1791616425,
+    "_id": "เตยหอม"
+  },
+  "ชุดผักสวนครัว 3 ชนิด": {
+    "chunk_ids": [
+      "kb-02_plants-chunk-054",
+      "kb-09_plant_recommendations-chunk-017"
+    ],
+    "count": 2,
+    "update_time": 1791616425,
+    "_id": "ชุดผักสวนครัว 3 ชนิด"
+  },
+  "กระถางพลาสติกสีดำ": {
+    "chunk_ids": [
+      "kb-03_pots_supplies-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791616362,
+    "update_time": 1791616362,
+    "_id": "กระถางพลาสติกสีดำ"
+  },
+  "กระถางดินเผา": {
+    "chunk_ids": [
+      "kb-03_pots_supplies-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791616362,
+    "update_time": 1791616362,
+    "_id": "กระถางดินเผา"
+  },
+  "กระถางเซรามิกสีขาวด้าน": {
+    "chunk_ids": [
+      "kb-03_pots_supplies-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791616362,
+    "update_time": 1791616362,
+    "_id": "กระถางเซรามิกสีขาวด้าน"
+  },
+  "กระถางเซรามิกเคลือบสีเขียวเสจ": {
+    "chunk_ids": [
+      "kb-03_pots_supplies-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791616362,
+    "update_time": 1791616362,
+    "_id": "กระถางเซรามิกเคลือบสีเขียวเสจ"
+  },
+  "จานรองกระถางพลาสติก": {
+    "chunk_ids": [
+      "kb-03_pots_supplies-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791616362,
+    "update_time": 1791616362,
+    "_id": "จานรองกระถางพลาสติก"
+  },
+  "ดินปลูกสูตรไม้ใบ": {
+    "chunk_ids": [
+      "kb-03_pots_supplies-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791616362,
+    "update_time": 1791616362,
+    "_id": "ดินปลูกสูตรไม้ใบ"
+  },
+  "ดินปลูกแคคตัสและไม้อวบน้ำ": {
+    "chunk_ids": [
+      "kb-03_pots_supplies-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791616362,
+    "update_time": 1791616362,
+    "_id": "ดินปลูกแคคตัสและไม้อวบน้ำ"
+  },
+  "เพอร์ไลต์": {
+    "chunk_ids": [
+      "kb-03_pots_supplies-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791616362,
+    "update_time": 1791616362,
+    "_id": "เพอร์ไลต์"
+  },
+  "หินภูเขาไฟ": {
+    "chunk_ids": [
+      "kb-03_pots_supplies-chunk-000",
+      "kb-07_plant_care_guide-chunk-003"
+    ],
+    "count": 2,
+    "update_time": 1791616390,
+    "_id": "หินภูเขาไฟ"
+  },
+  "เครื่องปลูกกล้วยไม้": {
+    "chunk_ids": [
+      "kb-03_pots_supplies-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791616362,
+    "update_time": 1791616362,
+    "_id": "เครื่องปลูกกล้วยไม้"
+  },
+  "ปุ๋ยละลายช้า": {
+    "chunk_ids": [
+      "kb-03_pots_supplies-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791616362,
+    "update_time": 1791616362,
+    "_id": "ปุ๋ยละลายช้า"
+  },
+  "ปุ๋ยน้ำสำหรับไม้ใบ": {
+    "chunk_ids": [
+      "kb-03_pots_supplies-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791616362,
+    "update_time": 1791616362,
+    "_id": "ปุ๋ยน้ำสำหรับไม้ใบ"
+  },
+  "น้ำมันสะเดา": {
+    "chunk_ids": [
+      "kb-03_pots_supplies-chunk-001",
+      "kb-07_plant_care_guide-chunk-002"
+    ],
+    "count": 2,
+    "update_time": 1791616390,
+    "_id": "น้ำมันสะเดา"
+  },
+  "กับดักแมลงหวี่แบบกาวเหนียว": {
+    "chunk_ids": [
+      "kb-03_pots_supplies-chunk-001",
+      "kb-07_plant_care_guide-chunk-003"
+    ],
+    "count": 2,
+    "update_time": 1791616390,
+    "_id": "กับดักแมลงหวี่แบบกาวเหนียว"
+  },
+  "ฟ็อกกี้ฉีดน้ำ": {
+    "chunk_ids": [
+      "kb-03_pots_supplies-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791616362,
+    "update_time": 1791616362,
+    "_id": "ฟ็อกกี้ฉีดน้ำ"
+  },
+  "บัวรดน้ำปากยาว": {
+    "chunk_ids": [
+      "kb-03_pots_supplies-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791616362,
+    "update_time": 1791616362,
+    "_id": "บัวรดน้ำปากยาว"
+  },
+  "ไม้ค้ำหุ้มมอส": {
+    "chunk_ids": [
+      "kb-03_pots_supplies-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791616362,
+    "update_time": 1791616362,
+    "_id": "ไม้ค้ำหุ้มมอส"
+  },
+  "กรรไกรตัดแต่งกิ่ง": {
+    "chunk_ids": [
+      "kb-03_pots_supplies-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791616362,
+    "update_time": 1791616362,
+    "_id": "กรรไกรตัดแต่งกิ่ง"
+  },
+  "ชุดช้อนพรวนดินจิ๋ว": {
+    "chunk_ids": [
+      "kb-03_pots_supplies-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791616362,
+    "update_time": 1791616362,
+    "_id": "ชุดช้อนพรวนดินจิ๋ว"
+  },
+  "ปุ๋ยและยาดูแลต้นไม้": {
+    "chunk_ids": [
+      "kb-03_pots_supplies-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791616362,
+    "update_time": 1791616362,
+    "_id": "ปุ๋ยและยาดูแลต้นไม้"
+  },
+  "อุปกรณ์": {
+    "chunk_ids": [
+      "kb-03_pots_supplies-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791616362,
+    "update_time": 1791616362,
+    "_id": "อุปกรณ์"
+  },
+  "บริการเปลี่ยนกระถาง": {
+    "chunk_ids": [
+      "kb-04_services-chunk-000",
+      "kb-08_faq-chunk-002"
+    ],
+    "count": 2,
+    "update_time": 1791616404,
+    "_id": "บริการเปลี่ยนกระถาง"
+  },
+  "บริการฝากเลี้ยงต้นไม้": {
+    "chunk_ids": [
+      "kb-04_services-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791616366,
+    "update_time": 1791616366,
+    "_id": "บริการฝากเลี้ยงต้นไม้"
+  },
+  "ร้าน": {
+    "chunk_ids": [
+      "kb-04_services-chunk-000",
+      "kb-05_shipping_payment-chunk-004",
+      "kb-06_policies_promotions-chunk-000",
+      "kb-08_faq-chunk-000"
+    ],
+    "count": 4,
+    "update_time": 1791616399,
+    "_id": "ร้าน"
+  },
+  "ลูกค้า": {
+    "chunk_ids": [
+      "kb-04_services-chunk-000",
+      "kb-05_shipping_payment-chunk-001",
+      "kb-06_policies_promotions-chunk-000"
+    ],
+    "count": 3,
+    "update_time": 1791616384,
+    "_id": "ลูกค้า"
+  },
+  "บริการตรวจสุขภาพต้นไม้": {
+    "chunk_ids": [
+      "kb-04_services-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791616366,
+    "update_time": 1791616366,
+    "_id": "บริการตรวจสุขภาพต้นไม้"
+  },
+  "บริการห่อของขวัญ": {
+    "chunk_ids": [
+      "kb-04_services-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791616366,
+    "update_time": 1791616366,
+    "_id": "บริการห่อของขวัญ"
+  },
+  "Workshop ทำสวนขวดแก้ว": {
+    "chunk_ids": [
+      "kb-04_services-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791616366,
+    "update_time": 1791616366,
+    "_id": "Workshop ทำสวนขวดแก้ว"
+  },
+  "บอท": {
+    "chunk_ids": [
+      "kb-04_services-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791616366,
+    "update_time": 1791616366,
+    "_id": "บอท"
+  },
+  "หน้าร้าน": {
+    "chunk_ids": [
+      "kb-04_services-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791616366,
+    "update_time": 1791616366,
+    "_id": "หน้าร้าน"
+  },
+  "บริการจัดสวนกระถางระเบียงคอนโด": {
+    "chunk_ids": [
+      "kb-04_services-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791616366,
+    "update_time": 1791616366,
+    "_id": "บริการจัดสวนกระถางระเบียงคอนโด"
+  },
+  "กรุงเทพฯ และปริมณฑล": {
+    "chunk_ids": [
+      "kb-04_services-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791616366,
+    "update_time": 1791616366,
+    "_id": "กรุงเทพฯ และปริมณฑล"
+  },
+  "เลขคำสั่งซื้อ": {
+    "chunk_ids": [
+      "kb-05_shipping_payment-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791616376,
+    "update_time": 1791616376,
+    "_id": "เลขคำสั่งซื้อ"
+  },
+  "กรุงเทพฯ": {
+    "chunk_ids": [
+      "kb-05_shipping_payment-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791616376,
+    "update_time": 1791616376,
+    "_id": "กรุงเทพฯ"
+  },
+  "นนทบุรี": {
+    "chunk_ids": [
+      "kb-05_shipping_payment-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791616376,
+    "update_time": 1791616376,
+    "_id": "นนทบุรี"
+  },
+  "ปทุมธานี": {
+    "chunk_ids": [
+      "kb-05_shipping_payment-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791616376,
+    "update_time": 1791616376,
+    "_id": "ปทุมธานี"
+  },
+  "สมุทรปราการ": {
+    "chunk_ids": [
+      "kb-05_shipping_payment-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791616376,
+    "update_time": 1791616376,
+    "_id": "สมุทรปราการ"
+  },
+  "สมุทรสาคร": {
+    "chunk_ids": [
+      "kb-05_shipping_payment-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791616376,
+    "update_time": 1791616376,
+    "_id": "สมุทรสาคร"
+  },
+  "นครปฐม": {
+    "chunk_ids": [
+      "kb-05_shipping_payment-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791616376,
+    "update_time": 1791616376,
+    "_id": "นครปฐม"
+  },
+  "สงกรานต์": {
+    "chunk_ids": [
+      "kb-05_shipping_payment-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791616376,
+    "update_time": 1791616376,
+    "_id": "สงกรานต์"
+  },
+  "ปีใหม่": {
+    "chunk_ids": [
+      "kb-05_shipping_payment-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791616376,
+    "update_time": 1791616376,
+    "_id": "ปีใหม่"
+  },
+  "บจก. บ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-05_shipping_payment-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791616376,
+    "update_time": 1791616376,
+    "_id": "บจก. บ้านใบเขียว"
+  },
+  "การจัดส่งพัสดุ": {
+    "chunk_ids": [
+      "kb-05_shipping_payment-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791616376,
+    "update_time": 1791616376,
+    "_id": "การจัดส่งพัสดุ"
+  },
+  "การชำระเงิน": {
+    "chunk_ids": [
+      "kb-05_shipping_payment-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791616376,
+    "update_time": 1791616376,
+    "_id": "การชำระเงิน"
+  },
+  "อุปกรณ์/ดิน/ปุ๋ย": {
+    "chunk_ids": [
+      "kb-05_shipping_payment-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791616376,
+    "update_time": 1791616376,
+    "_id": "อุปกรณ์/ดิน/ปุ๋ย"
+  },
+  "สลิปการโอนเงิน": {
+    "chunk_ids": [
+      "kb-05_shipping_payment-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1791616376,
+    "update_time": 1791616376,
+    "_id": "สลิปการโอนเงิน"
+  },
+  "คำสั่งซื้อ": {
+    "chunk_ids": [
+      "kb-05_shipping_payment-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1791616376,
+    "update_time": 1791616376,
+    "_id": "คำสั่งซื้อ"
+  },
+  "การเคลมสินค้า": {
+    "chunk_ids": [
+      "kb-06_policies_promotions-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791616384,
+    "update_time": 1791616384,
+    "_id": "การเคลมสินค้า"
+  },
+  "สมาชิกบ้านใบเขียว": {
+    "chunk_ids": [
+      "kb-06_policies_promotions-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791616384,
+    "update_time": 1791616384,
+    "_id": "สมาชิกบ้านใบเขียว"
+  },
+  "Green October": {
+    "chunk_ids": [
+      "kb-06_policies_promotions-chunk-001",
+      "kb-06_policies_promotions-chunk-002",
+      "kb-08_faq-chunk-002"
+    ],
+    "count": 3,
+    "update_time": 1791616404,
+    "_id": "Green October"
+  },
+  "กระถาง อุปกรณ์ ดิน ปุ๋ย": {
+    "chunk_ids": [
+      "kb-06_policies_promotions-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791616384,
+    "update_time": 1791616384,
+    "_id": "กระถาง อุปกรณ์ ดิน ปุ๋ย"
+  },
+  "เครดิตร้าน": {
+    "chunk_ids": [
+      "kb-06_policies_promotions-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791616384,
+    "update_time": 1791616384,
+    "_id": "เครดิตร้าน"
+  },
+  "สมาชิก": {
+    "chunk_ids": [
+      "kb-06_policies_promotions-chunk-002",
+      "kb-08_faq-chunk-002"
+    ],
+    "count": 2,
+    "update_time": 1791616404,
+    "_id": "สมาชิก"
+  },
+  "ส่วนลดเปอร์เซ็นต์": {
+    "chunk_ids": [
+      "kb-06_policies_promotions-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791616384,
+    "update_time": 1791616384,
+    "_id": "ส่วนลดเปอร์เซ็นต์"
+  },
+  "ส่วนลดแลกแต้ม": {
+    "chunk_ids": [
+      "kb-06_policies_promotions-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791616384,
+    "update_time": 1791616384,
+    "_id": "ส่วนลดแลกแต้ม"
+  },
+  "ข้อมูลลูกค้า": {
+    "chunk_ids": [
+      "kb-06_policies_promotions-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791616384,
+    "update_time": 1791616384,
+    "_id": "ข้อมูลลูกค้า"
+  },
+  "การรดน้ำ": {
+    "chunk_ids": [
+      "kb-07_plant_care_guide-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791616390,
+    "update_time": 1791616390,
+    "_id": "การรดน้ำ"
+  },
+  "แสงแดดรำไร": {
+    "chunk_ids": [
+      "kb-07_plant_care_guide-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791616390,
+    "update_time": 1791616390,
+    "_id": "แสงแดดรำไร"
+  },
+  "การใส่ปุ๋ย": {
+    "chunk_ids": [
+      "kb-07_plant_care_guide-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791616390,
+    "update_time": 1791616390,
+    "_id": "การใส่ปุ๋ย"
+  },
+  "การเปลี่ยนกระถาง": {
+    "chunk_ids": [
+      "kb-07_plant_care_guide-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791616390,
+    "update_time": 1791616390,
+    "_id": "การเปลี่ยนกระถาง"
+  },
+  "ต้นไม้ใหม่": {
+    "chunk_ids": [
+      "kb-07_plant_care_guide-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791616390,
+    "update_time": 1791616390,
+    "_id": "ต้นไม้ใหม่"
+  },
+  "ใบเหลือง": {
+    "chunk_ids": [
+      "kb-07_plant_care_guide-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791616390,
+    "update_time": 1791616390,
+    "_id": "ใบเหลือง"
+  },
+  "รากเน่า": {
+    "chunk_ids": [
+      "kb-07_plant_care_guide-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791616390,
+    "update_time": 1791616390,
+    "_id": "รากเน่า"
+  },
+  "ปลายใบไหม้": {
+    "chunk_ids": [
+      "kb-07_plant_care_guide-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791616390,
+    "update_time": 1791616390,
+    "_id": "ปลายใบไหม้"
+  },
+  "ใบไหม้แดด": {
+    "chunk_ids": [
+      "kb-07_plant_care_guide-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791616390,
+    "update_time": 1791616390,
+    "_id": "ใบไหม้แดด"
+  },
+  "เพลี้ยแป้ง (Mealybug)": {
+    "chunk_ids": [
+      "kb-07_plant_care_guide-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791616390,
+    "update_time": 1791616390,
+    "_id": "เพลี้ยแป้ง (Mealybug)"
+  },
+  "ไรแดง (Spider mite)": {
+    "chunk_ids": [
+      "kb-07_plant_care_guide-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791616390,
+    "update_time": 1791616390,
+    "_id": "ไรแดง (Spider mite)"
+  },
+  "เดหลี": {
+    "chunk_ids": [
+      "kb-07_plant_care_guide-chunk-002",
+      "kb-08_faq-chunk-000",
+      "kb-09_plant_recommendations-chunk-015"
+    ],
+    "count": 3,
+    "update_time": 1791616425,
+    "_id": "เดหลี"
+  },
+  "แมลงหวี่ดิน": {
+    "chunk_ids": [
+      "kb-07_plant_care_guide-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791616390,
+    "update_time": 1791616390,
+    "_id": "แมลงหวี่ดิน"
+  },
+  "ราสีขาว": {
+    "chunk_ids": [
+      "kb-07_plant_care_guide-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791616390,
+    "update_time": 1791616390,
+    "_id": "ราสีขาว"
+  },
+  "การดูแลต้นไม้": {
+    "chunk_ids": [
+      "kb-07_plant_care_guide-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791616390,
+    "update_time": 1791616390,
+    "_id": "การดูแลต้นไม้"
+  },
+  "กวักมรกต ZZ Plant": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791616404,
+    "update_time": 1791616404,
+    "_id": "กวักมรกต ZZ Plant"
+  },
+  "หน้าวัว": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791616404,
+    "update_time": 1791616404,
+    "_id": "หน้าวัว"
+  },
+  "ต้นหยก": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791616404,
+    "update_time": 1791616404,
+    "_id": "ต้นหยก"
+  },
+  "การโอนเงิน": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791616404,
+    "update_time": 1791616404,
+    "_id": "การโอนเงิน"
+  },
+  "เงินสด": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791616404,
+    "update_time": 1791616404,
+    "_id": "เงินสด"
+  },
+  "QR": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791616404,
+    "update_time": 1791616404,
+    "_id": "QR"
+  },
+  "บัตร": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791616404,
+    "update_time": 1791616404,
+    "_id": "บัตร"
+  },
+  "เดือนเกิด": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791616404,
+    "update_time": 1791616404,
+    "_id": "เดือนเกิด"
+  },
+  "ระบบสะสมแต้ม": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791616404,
+    "update_time": 1791616404,
+    "_id": "ระบบสะสมแต้ม"
+  },
+  "LINE @baanbaikhiao": {
+    "chunk_ids": [
+      "kb-08_faq-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1791616404,
+    "update_time": 1791616404,
+    "_id": "LINE @baanbaikhiao"
+  },
+  "plants.csv": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "plants.csv"
+  },
+  "build_plants_kb.py": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "build_plants_kb.py"
+  },
+  "Chinese Evergreen": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-001",
+      "kb-09_plant_recommendations-chunk-003",
+      "kb-09_plant_recommendations-chunk-005",
+      "kb-09_plant_recommendations-chunk-008"
+    ],
+    "count": 4,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Chinese Evergreen"
+  },
+  "ZZ Plant": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-001",
+      "kb-09_plant_recommendations-chunk-003",
+      "kb-09_plant_recommendations-chunk-005",
+      "kb-09_plant_recommendations-chunk-008",
+      "kb-09_plant_recommendations-chunk-009",
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 6,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "ZZ Plant"
+  },
+  "ZZ Raven": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-001",
+      "kb-09_plant_recommendations-chunk-003",
+      "kb-09_plant_recommendations-chunk-005",
+      "kb-09_plant_recommendations-chunk-008",
+      "kb-09_plant_recommendations-chunk-009"
+    ],
+    "count": 5,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "ZZ Raven"
+  },
+  "Snake Plant": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-001",
+      "kb-09_plant_recommendations-chunk-003",
+      "kb-09_plant_recommendations-chunk-005"
+    ],
+    "count": 3,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Snake Plant"
+  },
+  "Snake Plant Laurentii": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-001",
+      "kb-09_plant_recommendations-chunk-003",
+      "kb-09_plant_recommendations-chunk-005",
+      "kb-09_plant_recommendations-chunk-008"
+    ],
+    "count": 4,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Snake Plant Laurentii"
+  },
+  "Cylindrical Snake Plant": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-001",
+      "kb-09_plant_recommendations-chunk-003",
+      "kb-09_plant_recommendations-chunk-005"
+    ],
+    "count": 3,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Cylindrical Snake Plant"
+  },
+  "Bird's Nest Snake Plant": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-001",
+      "kb-09_plant_recommendations-chunk-003",
+      "kb-09_plant_recommendations-chunk-005",
+      "kb-09_plant_recommendations-chunk-011"
+    ],
+    "count": 4,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Bird's Nest Snake Plant"
+  },
+  "Lucky Bamboo": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-001",
+      "kb-09_plant_recommendations-chunk-003",
+      "kb-09_plant_recommendations-chunk-005",
+      "kb-09_plant_recommendations-chunk-008",
+      "kb-09_plant_recommendations-chunk-009",
+      "kb-09_plant_recommendations-chunk-011",
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 7,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Lucky Bamboo"
+  },
+  "Golden Pothos": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-001",
+      "kb-09_plant_recommendations-chunk-003",
+      "kb-09_plant_recommendations-chunk-005"
+    ],
+    "count": 3,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Golden Pothos"
+  },
+  "Heartleaf Philodendron": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-001",
+      "kb-09_plant_recommendations-chunk-003",
+      "kb-09_plant_recommendations-chunk-004",
+      "kb-09_plant_recommendations-chunk-005",
+      "kb-09_plant_recommendations-chunk-006"
+    ],
+    "count": 5,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Heartleaf Philodendron"
+  },
+  "Inch Plant": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Inch Plant"
+  },
+  "Ghost Plant": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-001",
+      "kb-09_plant_recommendations-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Ghost Plant"
+  },
+  "Moss Rose": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-001",
+      "kb-09_plant_recommendations-chunk-002",
+      "kb-09_plant_recommendations-chunk-014"
+    ],
+    "count": 3,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Moss Rose"
+  },
+  "Lemongrass": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-001",
+      "kb-09_plant_recommendations-chunk-002",
+      "kb-09_plant_recommendations-chunk-014"
+    ],
+    "count": 3,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Lemongrass"
+  },
+  "Pandan": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-001",
+      "kb-09_plant_recommendations-chunk-002",
+      "kb-09_plant_recommendations-chunk-014"
+    ],
+    "count": 3,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Pandan"
+  },
+  "Arrowhead Plant": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-003",
+      "kb-09_plant_recommendations-chunk-005",
+      "kb-09_plant_recommendations-chunk-008"
+    ],
+    "count": 3,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Arrowhead Plant"
+  },
+  "Baby Rubber Plant": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-003",
+      "kb-09_plant_recommendations-chunk-005",
+      "kb-09_plant_recommendations-chunk-011"
+    ],
+    "count": 3,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Baby Rubber Plant"
+  },
+  "Satin Pothos": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-003",
+      "kb-09_plant_recommendations-chunk-004",
+      "kb-09_plant_recommendations-chunk-005",
+      "kb-09_plant_recommendations-chunk-006"
+    ],
+    "count": 4,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Satin Pothos"
+  },
+  "Bamboo Palm": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-004",
+      "kb-09_plant_recommendations-chunk-006",
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 3,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Bamboo Palm"
+  },
+  "Parlor Palm": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-004",
+      "kb-09_plant_recommendations-chunk-006",
+      "kb-09_plant_recommendations-chunk-011"
+    ],
+    "count": 3,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Parlor Palm"
+  },
+  "Lady Palm": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-004",
+      "kb-09_plant_recommendations-chunk-006",
+      "kb-09_plant_recommendations-chunk-008",
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 4,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Lady Palm"
+  },
+  "Corn Plant": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-004",
+      "kb-09_plant_recommendations-chunk-006",
+      "kb-09_plant_recommendations-chunk-008",
+      "kb-09_plant_recommendations-chunk-009",
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 5,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Corn Plant"
+  },
+  "Dragon Tree": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-004",
+      "kb-09_plant_recommendations-chunk-006"
+    ],
+    "count": 2,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Dragon Tree"
+  },
+  "อโลคาเซีย โพลลี่": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "อโลคาเซีย โพลลี่"
+  },
+  "ลิทอปส์": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "ลิทอปส์"
+  },
+  "แอสโตรไฟตัม": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "แอสโตรไฟตัม"
+  },
+  "เฟิร์นก้านดำ": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "เฟิร์นก้านดำ"
+  },
+  "Syngonium Neon Robusta": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Syngonium Neon Robusta"
+  },
+  "Chinese Money Plant": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-008",
+      "kb-09_plant_recommendations-chunk-011"
+    ],
+    "count": 2,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Chinese Money Plant"
+  },
+  "Croton": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Croton"
+  },
+  "Sago Palm": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Sago Palm"
+  },
+  "Crown of Thorns": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Crown of Thorns"
+  },
+  "Desert Rose": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Desert Rose"
+  },
+  "Golden Barrel Cactus": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Golden Barrel Cactus"
+  },
+  "Monstera Deliciosa": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-009",
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 2,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Monstera Deliciosa"
+  },
+  "String of Hearts": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "String of Hearts"
+  },
+  "Sweetheart Hoya": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-009",
+      "kb-09_plant_recommendations-chunk-011"
+    ],
+    "count": 2,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Sweetheart Hoya"
+  },
+  "Echeveria": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Echeveria"
+  },
+  "Assorted Cactus": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Assorted Cactus"
+  },
+  "Moon Cactus": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-009",
+      "kb-09_plant_recommendations-chunk-011",
+      "kb-09_plant_recommendations-chunk-012"
+    ],
+    "count": 3,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Moon Cactus"
+  },
+  "Mini Rose": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-009",
+      "kb-09_plant_recommendations-chunk-010",
+      "kb-09_plant_recommendations-chunk-014"
+    ],
+    "count": 3,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Mini Rose"
+  },
+  "Moth Orchid": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-009",
+      "kb-09_plant_recommendations-chunk-010",
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 3,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Moth Orchid"
+  },
+  "Dancing Lady Orchid": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-010",
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 2,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Dancing Lady Orchid"
+  },
+  "Cattleya Orchid": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-010",
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 2,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Cattleya Orchid"
+  },
+  "Air Plant": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-010",
+      "kb-09_plant_recommendations-chunk-012"
+    ],
+    "count": 2,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Air Plant"
+  },
+  "Lavender": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-010",
+      "kb-09_plant_recommendations-chunk-015"
+    ],
+    "count": 2,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Lavender"
+  },
+  "Kitchen Herb Set": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-010",
+      "kb-09_plant_recommendations-chunk-014"
+    ],
+    "count": 2,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Kitchen Herb Set"
+  },
+  "Watermelon Peperomia": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Watermelon Peperomia"
+  },
+  "Nerve Plant": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Nerve Plant"
+  },
+  "N'Joy Pothos": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "N'Joy Pothos"
+  },
+  "Ponytail Palm": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Ponytail Palm"
+  },
+  "Dwarf Fiddle Leaf Fig": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Dwarf Fiddle Leaf Fig"
+  },
+  "Earth Star": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Earth Star"
+  },
+  "กระดาด": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "กระดาด"
+  },
+  "โกสน": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "โกสน"
+  },
+  "อากาเว่": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "อากาเว่"
+  },
+  "เซดั้ม หางลา": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "เซดั้ม หางลา"
+  },
+  "ว่านหางจระเข้": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-013",
+      "kb-09_plant_recommendations-chunk-016"
+    ],
+    "count": 2,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "ว่านหางจระเข้"
+  },
+  "กุหลาบหินผี": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-013",
+      "kb-09_plant_recommendations-chunk-016"
+    ],
+    "count": 2,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "กุหลาบหินผี"
+  },
+  "พญาไร้ใบ": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "พญาไร้ใบ"
+  },
+  "แคคตัส คละสายพันธุ์": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-013",
+      "kb-09_plant_recommendations-chunk-016"
+    ],
+    "count": 2,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "แคคตัส คละสายพันธุ์"
+  },
+  "กาลันโชเอ": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-013",
+      "kb-09_plant_recommendations-chunk-016"
+    ],
+    "count": 2,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "กาลันโชเอ"
+  },
+  "มะลิ": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-013",
+      "kb-09_plant_recommendations-chunk-015"
+    ],
+    "count": 2,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "มะลิ"
+  },
+  "พุดซ้อน": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-013",
+      "kb-09_plant_recommendations-chunk-015"
+    ],
+    "count": 2,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "พุดซ้อน"
+  },
+  "Bougainvillea": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Bougainvillea"
+  },
+  "Petunia": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Petunia"
+  },
+  "Zinnia": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Zinnia"
+  },
+  "Trumpet Pitcher": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Trumpet Pitcher"
+  },
+  "Holy Basil": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Holy Basil"
+  },
+  "Thai Basil": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Thai Basil"
+  },
+  "Mint": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Mint"
+  },
+  "Rosemary": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-014",
+      "kb-09_plant_recommendations-chunk-015"
+    ],
+    "count": 2,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Rosemary"
+  },
+  "Bird's Eye Chili": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Bird's Eye Chili"
+  },
+  "Hoya Carnosa": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Hoya Carnosa"
+  },
+  "ไอวี่": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "ไอวี่"
+  },
+  "เศรษฐีเรือนใน": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "เศรษฐีเรือนใน"
+  },
+  "เฟิร์นบอสตัน": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "เฟิร์นบอสตัน"
+  },
+  "ฟิตโตเนีย": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "ฟิตโตเนีย"
+  },
+  "ฮาโวเทีย ม้าลาย": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "ฮาโวเทีย ม้าลาย"
+  },
+  "ยิมโนคาไลเซียม": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "ยิมโนคาไลเซียม"
+  },
+  "ยิมโนสีเสียบตอ": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "ยิมโนสีเสียบตอ"
+  },
+  "แมมมิลลาเรีย": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "แมมมิลลาเรีย"
+  },
+  "อิชินอปซิส": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "อิชินอปซิส"
+  },
+  "คริปแทนตัส": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-016",
+      "kb-09_plant_recommendations-chunk-017"
+    ],
+    "count": 2,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "คริปแทนตัส"
+  },
+  "ทิลแลนเซีย": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-016",
+      "kb-09_plant_recommendations-chunk-017"
+    ],
+    "count": 2,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "ทิลแลนเซีย"
+  },
+  "เคราฤาษี": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-017"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "เคราฤาษี"
+  },
+  "Kentia Palm": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-018",
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 2,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Kentia Palm"
+  },
+  "Fiddle Leaf Fig": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-018",
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 2,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Fiddle Leaf Fig"
+  },
+  "Poinsettia": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-018"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Poinsettia"
+  },
+  "Venus Flytrap": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-018"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Venus Flytrap"
+  },
+  "Areca Palm": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Areca Palm"
+  },
+  "Weeping Fig": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "Weeping Fig"
+  },
+  "White Bird of Paradise": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "White Bird of Paradise"
+  },
+  "79 บาท": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "79 บาท"
+  },
+  "69 บาท": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "69 บาท"
+  },
+  "45 บาท": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "45 บาท"
+  },
+  "35 บาท": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "35 บาท"
+  },
+  "59 บาท": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "59 บาท"
+  },
+  "2 นิ้ว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "2 นิ้ว"
+  },
+  "4 นิ้ว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "4 นิ้ว"
+  },
+  "3 นิ้ว": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "3 นิ้ว"
+  },
+  "1 ต้น": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "1 ต้น"
+  },
+  "ชุด 5 ต้น": {
+    "chunk_ids": [
+      "kb-09_plant_recommendations-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1791616425,
+    "update_time": 1791616425,
+    "_id": "ชุด 5 ต้น"
+  }
+}

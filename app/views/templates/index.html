@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="th">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>บ้านใบเขียว AI — ผู้ช่วยร้านต้นไม้</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<div class="app">
+  <aside class="side" id="side">
+    <div class="brand">
+      <div class="logo" aria-hidden="true">🌿</div>
+      <div><b>บ้านใบเขียว</b><small><span class="dot" id="side-dot"></span><span id="side-status">ผู้ช่วยตอบคำถามร้านต้นไม้</span></small></div>
+      <button class="icon-btn only-mobile" id="close-side" aria-label="ปิดเมนู">✕</button>
+    </div>
+    <div class="hours"><b>เปิดทุกวัน 09:00–19:00</b> · ไม่มีวันหยุด<br>แอดมินตอบแชท 09:00–18:00</div>
+    <button class="upload" type="button" id="upload-cta">
+      <span class="ic" aria-hidden="true">📷</span>
+      <span><b>ส่งรูปต้นไม้ให้ดูอาการ</b><small>ใบเหลือง มีแมลง · หรือส่งสลิป</small></span>
+    </button>
+    <div class="label">คำถามยอดนิยม</div>
+    <div class="qlist" id="quick">
+      <button class="q" data-q="ร้านเปิดกี่โมง อยู่ที่ไหนคะ">ร้านเปิดกี่โมง อยู่ที่ไหน</button>
+      <button class="q" data-q="มือใหม่ ห้องคอนโดแสงน้อย ต้นอะไรดีคะ">ต้นไม้ห้องแสงน้อย / มือใหม่</button>
+      <button class="q" data-q="ค่าส่งเท่าไร ส่งฟรีไหมคะ">ค่าส่งเท่าไร ส่งฟรีไหม</button>
+      <button class="q" data-q="ส่งต่างจังหวัดได้ไหม มีเงื่อนไขอะไรบ้าง">ส่งต่างจังหวัดได้ไหม</button>
+      <button class="q" data-q="อยากได้ต้นไม้เป็นของขวัญขึ้นบ้านใหม่ แนะนำอะไรดี">ต้นไม้เป็นของขวัญ</button>
+      <button class="q" data-q="เดือนนี้มีโปรโมชันอะไรบ้าง">โปรโมชันเดือนนี้</button>
+    </div>
+    <div class="spacer"></div>
+    <button class="reset" type="button" id="reset">⟲ เริ่มบทสนทนาใหม่</button>
+    <p class="disc">คุณกำลังคุยกับแชทบอท AI ที่ตอบจากข้อมูลของร้านเท่านั้น · พิมพ์ "ติดต่อแอดมิน" หรือทัก LINE @baanbaikhiao เพื่อคุยกับพนักงาน</p>
+  </aside>
+
+  <main>
+    <header class="topbar">
+      <button class="icon-btn only-mobile" id="open-side" aria-label="เปิดเมนู">☰</button>
+      <b>แชทกับผู้ช่วยร้าน</b>
+      <span class="pill" id="status-pill"><span class="dot"></span><span id="status-text">กำลังเชื่อมต่อ...</span></span>
+    </header>
+
+    <section class="feed" id="feed" aria-live="polite">
+      <div class="col" id="col">
+        <div class="hello" id="hello">
+          <div class="big" aria-hidden="true">🌱</div>
+          <h1>สวัสดีค่ะ ผู้ช่วยร้านบ้านใบเขียว</h1>
+          <p>ถามเรื่องต้นไม้ ราคา ค่าส่ง หรือส่งรูปต้นไม้ให้ช่วยดูอาการได้เลยค่ะ</p>
+          <div class="cards">
+            <button class="card" data-q="แนะนำต้นไม้ดูแลง่ายสำหรับมือใหม่หน่อยค่ะ"><span class="ic">🪴</span><b>แนะนำต้นไม้</b><small>ห้องแสงน้อย มือใหม่ ไม้มงคล ของขวัญ</small></button>
+            <button class="card" data-upload="1"><span class="ic">📷</span><b>ดูอาการจากรูป</b><small>ใบเหลือง ใบไหม้ เพลี้ย รากเน่า</small></button>
+            <button class="card" data-q="ส่งต่างจังหวัดได้ไหม ค่าส่งเท่าไร"><span class="ic">🚚</span><b>สั่งซื้อและจัดส่ง</b><small>ค่าส่ง ส่งต่างจังหวัด เช็กสถานะคำสั่งซื้อ</small></button>
+          </div>
+          <div class="facts">
+            <div class="fact"><small>ต้นไม้ในร้าน</small><b>132 สายพันธุ์</b></div>
+            <div class="fact"><small>ส่งฟรี (ไม่เกิน 15 กม.)</small><b>ครบ 1,500 บาท</b></div>
+            <div class="fact"><small>โปรเดือนนี้</small><b>ไม้ใบ 3 ต้น แถมดิน</b></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <form class="inputwrap" id="form" autocomplete="off">
+      <div class="preview" id="preview" hidden>
+        <img id="preview-img" alt="รูปที่แนบ">
+        <span id="preview-name"></span>
+        <button type="button" class="icon-btn" id="preview-remove" aria-label="ลบรูป">✕</button>
+      </div>
+      <div class="bar" id="bar">
+        <button type="button" class="attachbtn" id="attach" aria-label="แนบรูป" title="แนบรูป (.jpg .png .webp ไม่เกิน {{ max_image_mb }} MB)">📷</button>
+        <input type="file" id="file" accept="image/jpeg,image/png,image/webp" hidden>
+        <textarea id="input" rows="1" maxlength="{{ max_chars }}" placeholder="พิมพ์คำถาม หรือแนบรูปต้นไม้... (Enter เพื่อส่ง)" aria-label="ข้อความ"></textarea>
+        <button type="submit" class="send" id="send" aria-label="ส่ง">→</button>
+      </div>
+      <div class="count"><span id="count">0/{{ max_chars }}</span><span>รองรับ .jpg .png .webp ไม่เกิน {{ max_image_mb }} MB · Shift+Enter ขึ้นบรรทัดใหม่</span></div>
+    </form>
+  </main>
+</div>
+
+<script>window.APP = { maxChars: {{ max_chars }}, maxImageMb: {{ max_image_mb }} };</script>
+<script src="https://cdn.jsdelivr.net/npm/marked@15/marked.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/dompurify@3/dist/purify.min.js"></script>
+<script src="/static/js/chat.js"></script>
+</body>
+</html>

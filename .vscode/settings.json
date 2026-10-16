@@ -1,0 +1,13 @@
+{
+  // ซ่อนไฟล์/โฟลเดอร์ที่ระบบสร้างเองออกจากแถบ Explorer (ไฟล์ยังอยู่ แค่ไม่แสดง)
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/*.pyc": true,
+    "**/.pytest_cache": true
+  },
+  // ไม่ต้องค้นหาในโฟลเดอร์ที่ใหญ่และไม่ใช่โค้ด
+  "search.exclude": {
+    "**/.venv": true,
+    "rag/storage": true
+  }
+}

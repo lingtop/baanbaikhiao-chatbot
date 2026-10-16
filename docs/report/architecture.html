@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="th">
+<head>
+<meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #1d2b22; --muted: #5b6b61; --line: #cfdcd2;
+    --green: #1f5e3b; --leaf: #3e8e5a; --sage: #eef5ef;
+    --google: #2f6fd6; --groq: #d1562b; --openrouter: #6b4fbb; --local: #1f5e3b;
+  }
+  * { box-sizing: border-box; margin: 0; }
+  body { width: 1480px; height: 1030px; padding: 34px 40px; background: #fff; color: var(--ink);
+         font-family: "IBM Plex Sans Thai", "Leelawadee UI", sans-serif; }
+  h1 { font-size: 30px; font-weight: 700; color: var(--green); }
+  .sub { color: var(--muted); font-size: 16px; margin-top: 2px; }
+  .grid { display: grid; grid-template-columns: 250px 46px 430px 46px 310px 46px 270px; margin-top: 26px; align-items: stretch; }
+  .col-title { font-size: 13px; font-weight: 700; letter-spacing: .06em; color: var(--muted); text-transform: uppercase; margin-bottom: 8px; }
+  .grid > div { display: flex; flex-direction: column; }
+  .panel { border: 1.5px solid var(--line); border-radius: 14px; padding: 14px; background: #fff; flex: 1; }
+  .panel.main { background: var(--sage); border-color: #b9d3bf; }
+  .box { border: 1.5px solid var(--line); background: #fff; border-radius: 10px; padding: 9px 11px; margin-bottom: 9px; }
+  .box:last-child { margin-bottom: 0; }
+  .box b { display: block; font-size: 15.5px; font-weight: 600; }
+  .box span { display: block; font-size: 13px; color: var(--muted); line-height: 1.45; }
+  .box code { font-family: Consolas, monospace; font-size: 12.5px; color: var(--ink); }
+  .arrow { display: flex; flex-direction: column; align-items: center; justify-content: center; color: var(--leaf); }
+  .arrow i { font-style: normal; font-size: 30px; line-height: 1; }
+  .arrow small { font-size: 11px; color: var(--muted); text-align: center; line-height: 1.2; margin-top: 4px; }
+  .box .pill, .pill { display: inline-block; font-size: 11px; font-weight: 600; color: #fff; border-radius: 99px; padding: 1px 8px; margin: 4px 4px 0 0; }
+  .p-google { background: var(--google); } .p-groq { background: var(--groq); }
+  .p-openrouter { background: var(--openrouter); } .p-local { background: var(--local); }
+  .cloud { border-left: 5px solid; }
+  .c-google { border-left-color: var(--google); } .c-groq { border-left-color: var(--groq); } .c-openrouter { border-left-color: var(--openrouter); }
+  .customer { text-align: center; padding: 18px 10px; }
+  .customer .ic { font-size: 40px; }
+  .legend { margin-top: 22px; font-size: 13.5px; color: var(--muted); display: flex; gap: 22px; align-items: center; }
+  .legend .pill { margin: 0 6px 0 0; }
+</style>
+</head>
+<body>
+  <h1>บ้านใบเขียว AI — แผนภาพสถาปัตยกรรมระบบ</h1>
+  <div class="sub">องค์ประกอบทั้งหมดของระบบ · ป้ายสีบอกว่าแต่ละส่วนเรียกใช้ผู้ให้บริการรายใด</div>
+
+  <div class="grid">
+    <div>
+      <div class="col-title">1 · ผู้ใช้</div>
+      <div class="panel">
+        <div class="box customer"><div class="ic">🧑‍🌾</div><b>ลูกค้าร้าน</b><span>มือถือ / คอมพิวเตอร์<br>พิมพ์คำถาม · แนบรูป</span></div>
+        <div class="box"><b>Web UI</b><span><code>app/views/templates/index.html</code><br><code>app/views/static/js/chat.js</code><br><code>app/views/static/css/style.css</code></span></div>
+        <div class="box"><b>แสดงผลอย่างปลอดภัย</b><span>marked.js แปลง Markdown<br>DOMPurify ตัด HTML อันตราย</span></div>
+        <div class="box"><b>สถานะบนหน้าจอ</b><span>กำลังประมวลผลทีละขั้น · error banner · ปุ่มหยุด / เริ่มใหม่</span></div>
+      </div>
+    </div>
+
+    <div class="arrow"><i>⇄</i><small>HTTP<br>SSE</small></div>
+
+    <div>
+      <div class="col-title">2 · Chat API — FastAPI :8000</div>
+      <div class="panel main">
+        <div class="box"><b>controllers/</b><span>chat · order · system · page — รับ request ตรวจไฟล์ (.jpg .png .webp ≤ 5 MB) · session cookie · rate limit 20 ครั้ง/นาที</span></div>
+        <div class="box"><b>services/chat_service.py</b><span>Guard ขาเข้า → Vision → RAG → LLM → Guard ขาออก · จับเวลาทุกขั้น</span></div>
+        <div class="box"><b>services/vision_service.py</b><span>สรุปสิ่งที่เห็นในภาพเป็น JSON (อาการต้นไม้ / สลิป / พัสดุเสียหาย / ระบุต้นไม้)</span><span class="pill p-google">Gemini 3.1 Flash Lite</span></div>
+        <div class="box"><b>services/rag_service.py</b><span>เรียก RAG Server <code>POST /query</code> mode = mix</span><span class="pill p-local">LightRAG :9621</span></div>
+        <div class="box"><b>services/llm_service.py</b><span>httpx AsyncClient · OpenAI-compatible · system prompt + context + ประวัติแชท · สลับตัวสำรองเมื่อ 503</span><span class="pill p-google">Gemini 3.1 Flash Lite</span><span class="pill p-groq">gpt-oss-120b (สำรอง)</span></div>
+        <div class="box"><b>services/order_service.py · product_service.py</b><span>สถานะคำสั่งซื้อ (ต้องมีเลข + เบอร์ 4 ตัวท้าย) · การ์ดสินค้าจาก CSV</span></div>
+        <div class="box"><b>models/ · prompts/ · config.py</b><span>schemas · อ่านข้อมูลต้นไม้/คำสั่งซื้อ · session · system prompt 2 โหมด</span></div>
+      </div>
+    </div>
+
+    <div class="arrow"><i>⇄</i><small>HTTP<br>JSON</small></div>
+
+    <div>
+      <div class="col-title">3 · บริการในเครื่อง</div>
+      <div class="panel">
+        <div class="box"><b>Guard Service :8001</b><span>ต่อยอดจาก Llama Guard Layer (สัปดาห์ 11) <code>POST /check</code></span>
+          <span>① Blocklist + ตัดคำ PyThaiNLP<br>② Business Rules ของร้าน<br>③ Prompt Guard 2 (ขาเข้า)<br>④ Safety Classifier หมวด S1–S14<br>ตรวจไม่ได้ = ไม่ตอบ (fail-closed)</span>
+          <span class="pill p-groq">Prompt Guard 2</span><span class="pill p-groq">gpt-oss-20b</span></div>
+        <div class="box"><b>RAG Server :9621 (LightRAG)</b><span>คลังความรู้ 9 ไฟล์ (ต้นไม้ 132 สายพันธุ์ บริการ นโยบาย คู่มือดูแล FAQ)</span>
+          <span>Knowledge Graph (NetworkX) + Vector DB (NanoVectorDB)</span>
+          <span class="pill p-google">Gemini 3.1 Flash Lite</span><span class="pill p-local">bge-m3 (ONNX ในเครื่อง)</span></div>
+        <div class="box"><b>ข้อมูลร้าน (ไฟล์)</b><span><code>data/plants.csv</code> → สคริปต์สร้าง <code>data/knowledge_base/*.md</code><br><code>data/orders_mock.json</code> (ข้อมูลจำลอง)</span></div>
+      </div>
+    </div>
+
+    <div class="arrow"><i>→</i><small>HTTPS<br>API key</small></div>
+
+    <div>
+      <div class="col-title">4 · Cloud API (ฟรีทั้งหมด)</div>
+      <div class="panel">
+        <div class="box cloud c-google"><b>Google AI Studio</b><span>Gemini 3.1 Flash Lite — ตอบแชท + Vision + LightRAG (500 ครั้ง/วัน)</span></div>
+        <div class="box cloud c-groq"><b>Groq</b><span>Llama Prompt Guard 2 86M — จับ prompt injection (14.4K ครั้ง/วัน)</span><span>gpt-oss-20b — Safety Classifier S1–S14</span><span>gpt-oss-120b — Chat LLM / ตัวสกัด entity สำรองเมื่อ Gemini ไม่ว่าง</span></div>
+        <div class="box"><b>ทางเลือก Local</b><span>LM Studio :1234 (Gemma 4 E4B) ใช้เทียบผล Cloud vs Local</span></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="legend">
+    <span><span class="pill p-google">Google</span>Google AI Studio</span>
+    <span><span class="pill p-groq">Groq</span>Groq Cloud</span>
+    <span><span class="pill p-local">Local</span>รันในเครื่อง</span>
+    <span>· สลับผู้ให้บริการได้ด้วยการแก้ <code>.env</code> (LLM_BASE_URL / LLM_API_KEY / LLM_MODEL)</span>
+  </div>
+</body>
+</html>
