@@ -126,6 +126,21 @@ uv run python scripts/check_keys.py     # ทดสอบ API key และช�
 
 ภาพทดสอบอยู่ที่ `eval/images/` (สลิปเป็นสลิปจำลอง `slip_mock.html`)
 
+## Deploy (Docker + Render — สัปดาห์ 10)
+
+ทั้ง 3 service อยู่ใน image เดียว ([Dockerfile](Dockerfile), [deploy/start.sh](deploy/start.sh)) — ลูกค้าเข้าได้ทาง Chat API เท่านั้น
+ส่วน Guard (:8001) และ RAG (:9621) ฟังเฉพาะภายใน container
+
+| เรื่อง | ในเครื่อง | บน Render (free 512 MB) |
+|---|---|---|
+| Embedding ตอนค้น | bge-m3 ONNX ในเครื่อง (~1.2 GB RAM) | bge-m3 ตัวเดียวกันผ่าน Hugging Face Inference API (`EMBEDDING_PROVIDER=hf`) |
+| คลังความรู้ | `rag/storage/lightrag` | ไฟล์เดียวกัน (อยู่ใน git) ไม่ต้อง index ใหม่ |
+| ค่าลับ | `.env`, `rag/.env` | Environment ของ Render: `LLM_API_KEY`, `GROQ_API_KEY`, `HF_TOKEN` |
+
+ขั้นตอน: push ขึ้น GitHub → Render → **New + → Blueprint** → เลือก repo (อ่าน [render.yaml](render.yaml)) → ใส่ค่าลับ 3 ตัว → Deploy
+
+ข้อจำกัด free tier: ไม่มีคนใช้ 15 นาทีจะหลับ เปิดครั้งแรกรอ ~1 นาที · ประวัติแชทและ cache หายเมื่อรีสตาร์ต (สัปดาห์ 10: filesystem ชั่วคราว)
+
 ## API
 
 | Method | Path | Controller | หน้าที่ |
