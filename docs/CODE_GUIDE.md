@@ -363,14 +363,19 @@ chat.js renderAnswer()             แสดงคำตอบ + การ์ด
 | [109–111](../rag/services/rag_engine.py#L109) | `embed_func()` เรียก embedding ในเครื่องใน thread แยก |
 | [114–132](../rag/services/rag_engine.py#L114) | **`make_rag()`** สร้าง LightRAG: chunk ~1,300 token, ปิด gleaning (ประหยัด LLM ครึ่งหนึ่ง), เปิด cache, ภาษาไทย |
 
-### 3.3 [rag/services/embedding_service.py](../rag/services/embedding_service.py) — embedding ในเครื่อง
+### 3.3 [rag/services/embedding_service.py](../rag/services/embedding_service.py) — embedding (ในเครื่อง / ตอน deploy)
 
 | บรรทัด | ทำอะไร |
 |---|---|
-| [1–10](../rag/services/embedding_service.py#L1) | เหตุผลที่ใช้ bge-m3 ในเครื่อง + onnxruntime |
-| [24–40](../rag/services/embedding_service.py#L24) | `_load()` โหลด tokenizer + โมเดล ONNX ครั้งเดียว · ตัดข้อความที่ 512 token |
-| [36–37](../rag/services/embedding_service.py#L36) | ใช้ 1 thread (วัดแล้วเร็วกว่า 16 thread 13 เท่าบน CPU นี้) |
-| [43–58](../rag/services/embedding_service.py#L43) | `embed()` ข้อความ → token → โมเดล → เอาเวกเตอร์ของ token แรก ([CLS]) → normalize ยาว 1 → 1,024 มิติ |
+| [1–15](../rag/services/embedding_service.py#L1) | เหตุผลที่ใช้ bge-m3 ในเครื่อง + onnxruntime และทำไมตอน deploy ใช้ Gemini |
+| [30–34](../rag/services/embedding_service.py#L30) | `EMBEDDING_PROVIDER` เลือกโหมด: `local` (ค่าเริ่มต้น) หรือ `gemini` (บน Render) · เพดาน 90 ข้อความ/นาที |
+| [37–53](../rag/services/embedding_service.py#L37) | `_load()` โหลด tokenizer + โมเดล ONNX ครั้งเดียว · ตัดข้อความที่ 512 token |
+| [50](../rag/services/embedding_service.py#L50) | ใช้ 1 thread (วัดแล้วเร็วกว่า 16 thread 13 เท่าบน CPU นี้) |
+| [56–64](../rag/services/embedding_service.py#L56) | `_wait_quota()` รอให้จำนวนข้อความใน 60 วินาทีล่าสุดไม่เกินโควต้าฟรี |
+| [67–83](../rag/services/embedding_service.py#L67) | `_embed_gemini()` เรียก gemini-embedding-001 ขอ 1024 มิติ (ขนาดเท่า bge-m3) แล้ว normalize ใหม่ · ได้ 429 รอแล้วลองใหม่ |
+| [86–](../rag/services/embedding_service.py#L86) | `embed()` โหมด local: ข้อความ → token → โมเดล → เวกเตอร์ของ token แรก ([CLS]) → normalize ยาว 1 → 1,024 มิติ |
+
+> **อาจโดนถาม:** ทำไมบน Render ไม่ใช้ bge-m3? → Render free มี RAM 512 MB แต่ bge-m3 ใช้ ~1.2 GB · เวกเตอร์ Gemini กับ bge-m3 คนละแบบ จึงต้องมีคลังแยก `storage/lightrag_gemini` (graph เดียวกัน ต่างแค่เวกเตอร์)
 
 > **อาจโดนถาม:** cosine similarity (สัปดาห์ 3) — เวกเตอร์ถูก normalize แล้ว ความคล้าย = dot product ทดสอบแล้ว "ลิ้นมังกร ทนแสงน้อย" กับ "ต้นไม้สำหรับห้องที่แดดส่องไม่ถึง" ได้ 0.61 กับ "ค่าส่งต่างจังหวัด" ได้แค่ 0.34
 
@@ -402,6 +407,18 @@ chat.js renderAnswer()             แสดงคำตอบ + การ์ด
 | [data/knowledge_base/](../data/knowledge_base/) | คลังความรู้ 9 ไฟล์ (02 และ 09 สร้างจาก CSV ห้ามแก้ตรง) |
 | [scripts/build_plants_kb.py](../scripts/build_plants_kb.py) | CSV → markdown · [load_plants() บรรทัด 40](../scripts/build_plants_kb.py#L40) ตรวจข้อมูลก่อน (id ซ้ำ, หมวดผิด, ราคาผิดรูปแบบ) · [บรรทัด 151](../scripts/build_plants_kb.py#L151) สร้างรายการแนะนำ (มือใหม่, แสงน้อย, ของขวัญ ...) |
 | [scripts/check_keys.py](../scripts/check_keys.py) | ทดสอบว่า API key ใช้ได้และชื่อโมเดลถูก |
+
+## 4.1 Deploy — Docker + Render
+
+| ไฟล์ | ทำอะไร |
+|---|---|
+| [Dockerfile](../Dockerfile) | image เดียว: ติดตั้ง dependency ด้วย uv (แยก 2 venv: โปรเจกต์หลัก + rag/) แล้วคัดลอกโค้ด ข้อมูลร้าน และคลังที่ index แล้ว (ไม่มีโมเดล bge-m3) |
+| [deploy/start.sh](../deploy/start.sh) | เปิด RAG (:9621) และ Guard (:8001) เบื้องหลังที่ 127.0.0.1 แล้วเปิด Chat API ที่ `$PORT` ของ Render — ทางเข้าเดียวของลูกค้า · ส่งต่อ key ให้ RAG ใช้ชื่อตัวแปรของ LightRAG |
+| [deploy/rag.env](../deploy/rag.env) | ค่าของ RAG ตอน deploy (ไม่มีความลับ): `EMBEDDING_PROVIDER=gemini`, `WORKING_DIR=./storage/lightrag_gemini` |
+| [render.yaml](../render.yaml) | Blueprint ของ Render: Docker, plan free, health check `/api/v1/health`, ค่าลับ 2 ตัวกรอกในหน้า Render |
+| [.dockerignore](../.dockerignore) | ไม่เอา .env, .venv, โมเดล bge-m3, คลัง bge-m3, docs, eval เข้า image |
+
+> **อาจโดนถาม:** ทำไมรวม 3 service ใน container เดียว? → Render free ให้ 1 service = 1 พอร์ตสาธารณะ และ Guard/RAG ไม่ควรให้คนนอกเรียกตรง จึงฟังแค่ภายใน container
 
 ## 5. ชุดทดสอบ — `eval/`
 
