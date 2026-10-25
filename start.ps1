@@ -1,4 +1,4 @@
-# เปิดระบบทั้งหมด 3 บริการ แต่ละตัวในหน้าต่าง PowerShell ของตัวเอง
+﻿# เปิดระบบทั้งหมด 3 บริการ แต่ละตัวในหน้าต่าง PowerShell ของตัวเอง
 #   RAG (LightRAG)   http://127.0.0.1:9621  (embedding bge-m3 ในเครื่อง)
 #   Guard Service    http://127.0.0.1:8001
 #   Chat API + เว็บ   http://localhost:8000
